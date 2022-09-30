@@ -64,6 +64,9 @@ extra_css:
     - extra.css
 extra:
     generator: false
+    analytics:
+        provider: google
+        property: G-9ZRQD3E6FD
 markdown_extensions:
   - def_list
   - pymdownx.magiclink # auto-link HTML, FTP, and email links https://facelessuser.github.io/pymdown-extensions/extensions/magiclink/
