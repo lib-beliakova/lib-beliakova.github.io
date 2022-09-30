@@ -1,0 +1,79 @@
+site_name: Литературное творчество Беляковой Анастасии
+# site_url: https://lib-beliakova.github.io/
+# repo_url: https://github.com/lib-beliakova/lib
+# edit_uri: edit/main/docs/
+copyright: © Белякова А. К., 2020–2022
+nav:
+  - index.md
+  - news.md
+  - Рассказы:
+     - stories/autumn-gift.md
+     - stories/swallow-dad.md
+     - stories/snowman.md
+     - stories/under-our-house.md
+     - stories/preparation-for-festival.md
+     - stories/zastroyschiki.md
+     - stories/petya.md
+     - stories/sosna.md
+  - Сказки:
+     - tales/rainbow-lama.md
+     - tales/Ivan-dvornik.md
+  - Фанфики:
+     - fanfics/stolen-sun.md
+     - fanfics/smeshariki.md
+  - Стихотворения:
+     - poems/help.md
+     - poems/poets.md
+     - poems/my-school-day.md
+     - poems/the-hare.md
+     - poems/the-crow.md
+     - poems/petank.md
+     - poems/unicorn.md
+     - poems/april.md
+     - poems/zapominalochka.md
+     - poems/dad-hedgehog.md
+  - Загадки: riddles.md
+plugins:
+  - search
+  - i18n:
+      docs_structure: suffix
+      default_language: ru
+      languages:
+        ru:
+          name: Russian
+          build: true
+          site_name: "Литературное творчество Беляковой Анастасии"
+theme:
+    name: material
+    font: false
+    palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-4
+        name: Темное оформление
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-7
+        name: Светлое оформление
+    features:
+      - navigation.indexes
+#      - navigation.expand
+extra_css:
+    - extra.css
+extra:
+    generator: false
+markdown_extensions:
+  - def_list
+  - pymdownx.magiclink # auto-link HTML, FTP, and email links https://facelessuser.github.io/pymdown-extensions/extensions/magiclink/
+  - pymdownx.keys # add keys like ++ctrl+alt+delete++ # https://facelessuser.github.io/pymdown-extensions/extensions/keys/
+  - pymdownx.tabbed # add tabs https://facelessuser.github.io/pymdown-extensions/extensions/tabbed/
+  - pymdownx.details # add spoiler (??? note) https://facelessuser.github.io/pymdown-extensions/extensions/details/
+  - pymdownx.snippets # insert a file into another markdown file https://facelessuser.github.io/pymdown-extensions/extensions/snippets/
+  - pymdownx.superfences # https://facelessuser.github.io/pymdown-extensions/extensions/superfences/
+  - footnotes # https://python-markdown.github.io/extensions/footnotes/
+  - tables # https://python-markdown.github.io/extensions/tables/
+  - admonition # tips & notes (!!! note) https://squidfunk.github.io/mkdocs-material/reference/admonitions/
+  - attr_list # https://python-markdown.github.io/extensions/attr_list/
+  - smarty # converts ASCII dashes, quotes and ellipses to their HTML entity equivalents https://python-markdown.github.io/extensions/smarty/

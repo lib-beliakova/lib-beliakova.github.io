@@ -1,0 +1,16 @@
+:root {
+    --link-color: #115BC0;
+}
+pre {
+    font-size: 0.8em;
+ }
+.md-typeset a,
+.md-typeset a:hover {
+    color: var(--link-color);
+}
+.md-typeset a:hover {
+    text-decoration: underline;
+}
+[data-md-color-scheme="slate"] {
+    --link-color: #58a6ff;
+}
