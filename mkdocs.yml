@@ -32,6 +32,8 @@ nav:
      - poems/april.md
      - poems/zapominalochka.md
      - poems/dad-hedgehog.md
+     - poems/country.md
+     - poems/autumn.md
   - Загадки: riddles.md
 plugins:
   - search
