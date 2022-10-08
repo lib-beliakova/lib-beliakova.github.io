@@ -34,6 +34,7 @@ nav:
      - poems/dad-hedgehog.md
      - poems/country.md
      - poems/autumn.md
+     - poems/my-dad.md
   - Загадки: riddles.md
 plugins:
   - search
