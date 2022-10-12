@@ -35,6 +35,8 @@ nav:
      - poems/country.md
      - poems/autumn.md
      - poems/my-dad.md
+     - poems/autumn-parade.md
+
   - Загадки: riddles.md
 plugins:
   - search
