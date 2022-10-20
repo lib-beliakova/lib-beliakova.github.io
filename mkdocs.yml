@@ -74,6 +74,10 @@ extra:
     analytics:
         provider: google
         property: G-9ZRQD3E6FD
+    social:
+    - icon: fontawesome/brands/telegram 
+      link: https://t.me/lib_beliakova
+      name: Канал в Telergram
 markdown_extensions:
   - def_list
   - pymdownx.magiclink # auto-link HTML, FTP, and email links https://facelessuser.github.io/pymdown-extensions/extensions/magiclink/
