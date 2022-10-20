@@ -38,7 +38,6 @@ nav:
      - poems/autumn-parade.md
      - poems/coast-of-poetry.md
      - poems/sunset.md
-
   - Загадки: riddles.md
 plugins:
   - search
@@ -91,3 +90,6 @@ markdown_extensions:
   - admonition # tips & notes (!!! note) https://squidfunk.github.io/mkdocs-material/reference/admonitions/
   - attr_list # https://python-markdown.github.io/extensions/attr_list/
   - smarty # converts ASCII dashes, quotes and ellipses to their HTML entity equivalents https://python-markdown.github.io/extensions/smarty/
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
