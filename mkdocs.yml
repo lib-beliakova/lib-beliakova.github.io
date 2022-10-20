@@ -73,6 +73,17 @@ extra:
     analytics:
         provider: google
         property: G-9ZRQD3E6FD
+        feedback:
+          title: Вам нравится эта страница?
+          ratings:
+            - icon: material/thumb-up-outline
+              name: Да
+              data: 1
+              note: Спасибо! Я рада, что вам понравилось.
+            - icon: material/thumb-down-outline
+              name: Нет
+              data: 0
+              note: Жаль, что вам не понравилось...
     social:
     - icon: fontawesome/brands/telegram 
       link: https://t.me/lib_beliakova
