@@ -38,6 +38,7 @@ nav:
      - poems/autumn-parade.md
      - poems/coast-of-poetry.md
      - poems/sunset.md
+     - poems/before-sunrise.md
   - Загадки: riddles.md
 plugins:
   - search
