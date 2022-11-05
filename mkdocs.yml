@@ -40,6 +40,7 @@ nav:
      - poems/coast-of-poetry.md
      - poems/sunset.md
      - poems/before-sunrise.md
+     - poems/winter.md
   - Загадки: riddles.md
 plugins:
   - search
