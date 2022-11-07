@@ -41,6 +41,7 @@ nav:
      - poems/sunset.md
      - poems/before-sunrise.md
      - poems/winter.md
+     - poems/avian-dinner.md
   - Загадки: riddles.md
 plugins:
   - search
