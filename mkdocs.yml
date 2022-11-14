@@ -7,41 +7,41 @@ nav:
   - index.md
   - news.md
   - Рассказы:
-     - stories/autumn-gift.md
-     - stories/swallow-dad.md
-     - stories/snowman.md
      - stories/under-our-house.md
      - stories/preparation-for-festival.md
-     - stories/zastroyschiki.md
-     - stories/petya.md
      - stories/sosna.md
+     - stories/petya.md
+     - stories/zastroyschiki.md
+     - stories/snowman.md
+     - stories/swallow-dad.md
+     - stories/autumn-gift.md
   - Сказки:
-     - tales/rainbow-lama.md
      - tales/Ivan-dvornik.md
      - tales/Masha-rasteryasha.md
+     - tales/rainbow-lama.md
   - Фанфики:
      - fanfics/stolen-sun.md
      - fanfics/smeshariki.md
   - Стихотворения:
-     - poems/help.md
+     - poems/coast-of-poetry.md
+     - poems/before-sunrise.md
+     - poems/sunset.md
+     - poems/country.md
+     - poems/winter.md
+     - poems/autumn-parade.md
+     - poems/autumn.md
+     - poems/unicorn.md
      - poems/poets.md
      - poems/my-school-day.md
-     - poems/the-hare.md
-     - poems/the-crow.md
-     - poems/petank.md
-     - poems/unicorn.md
-     - poems/april.md
-     - poems/zapominalochka.md
-     - poems/dad-hedgehog.md
-     - poems/country.md
-     - poems/autumn.md
-     - poems/my-dad.md
-     - poems/autumn-parade.md
-     - poems/coast-of-poetry.md
-     - poems/sunset.md
-     - poems/before-sunrise.md
-     - poems/winter.md
      - poems/avian-dinner.md
+     - poems/my-dad.md
+     - poems/petank.md
+     - poems/the-hare.md
+     - poems/dad-hedgehog.md
+     - poems/zapominalochka.md
+     - poems/april.md
+     - poems/the-crow.md
+     - poems/help.md
   - Загадки: riddles.md
 plugins:
   - search
