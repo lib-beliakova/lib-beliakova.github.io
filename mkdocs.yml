@@ -7,22 +7,26 @@ nav:
   - index.md
   - news.md
   - Рассказы:
+     - stories/index.md
      - stories/under-our-house.md
      - stories/preparation-for-festival.md
-     - stories/sosna.md
-     - stories/petya.md
      - stories/zastroyschiki.md
      - stories/snowman.md
+     - stories/petya.md
      - stories/swallow-dad.md
+     - stories/sosna.md
      - stories/autumn-gift.md
   - Сказки:
+     - tales/index.md
      - tales/Ivan-dvornik.md
      - tales/Masha-rasteryasha.md
      - tales/rainbow-lama.md
   - Фанфики:
+     - fanfics/index.md
      - fanfics/stolen-sun.md
      - fanfics/smeshariki.md
   - Стихотворения:
+     - poems/index.md
      - poems/coast-of-poetry.md
      - poems/before-sunrise.md
      - poems/sunset.md
