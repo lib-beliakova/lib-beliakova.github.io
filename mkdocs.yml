@@ -59,6 +59,7 @@ plugins:
           site_name: "Литературное творчество Беляковой Анастасии"
 theme:
     name: material
+    custom_dir: overrides
     font: false
     palette:
     - media: "(prefers-color-scheme: light)"
