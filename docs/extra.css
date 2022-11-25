@@ -1,5 +1,6 @@
 :root {
     --link-color: #115BC0;
+    --md-admonition-icon--audio: url('/images/headphones.svg')
 }
 pre {
     font-size: 0.8em;
@@ -8,9 +9,29 @@ pre {
 .md-typeset a:hover {
     color: var(--link-color);
 }
-.md-typeset a:hover {
+.md-typeset a:hover:not(.md-button) {
     text-decoration: underline;
 }
 [data-md-color-scheme="slate"] {
     --link-color: #58a6ff;
+}
+.md-typeset .md-button {
+  border-radius: 0.3rem;
+  font-weight: 400;
+  padding: 0.25em 0.35em;
+  color: var(--link-color);
+}
+.md-typeset .admonition.audio,
+.md-typeset details.audio {
+  border-color: rgb(99, 99, 99);
+}
+.md-typeset .audio > .admonition-title,
+.md-typeset .audio > summary {
+  background-color: rgba(99, 99, 99, 0.1);
+}
+.md-typeset .audio > .admonition-title::before,
+.md-typeset .audio > summary::before {
+  background-color: rgb(99, 99, 99);
+  -webkit-mask-image: var(--md-admonition-icon--audio);
+          mask-image: var(--md-admonition-icon--audio);
 }

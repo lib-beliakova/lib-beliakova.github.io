@@ -1,5 +1,13 @@
 # Иван-дворник и царевна-птица
 
+!!! audio "Слушать аудиосказку"
+    <audio controls preload="metadata" style="width: 100%">
+        <source src="/audio/tales/Ivan-dvornik.ogg" type="audio/ogg">
+        <source src="/audio/tales/Ivan-dvornik.mp3" type="audio/mpeg">
+        Ваш браузер не поддерживает воспроизведение звука на странице.
+        Вы можете <a href="/audio/tales/Ivan-dvornik.mp3">скачать аудиосказку</a>.
+    </audio>
+
 В одном царстве был, как положено, царь. Ну и конечно же у этого царя были подданные, крестьяне, земледельцы, ремесленники.  
 
 У одного крестьянина было три сына. И младшего звали Иваном.  
