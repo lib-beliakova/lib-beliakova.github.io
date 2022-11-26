@@ -18,7 +18,8 @@ pre {
 .md-typeset .md-button {
   border-radius: 0.3rem;
   font-weight: 400;
-  padding: 0.25em 0.35em;
+  font-size: 0.7rem;
+  padding: 0.25em 0.5em;
   color: var(--link-color);
 }
 .md-typeset .admonition.audio,
