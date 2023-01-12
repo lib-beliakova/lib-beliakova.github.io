@@ -2,7 +2,7 @@ site_name: Литературное творчество Беляковой Ан
 site_url: https://lib-beliakova.github.io/
 # repo_url: https://github.com/lib-beliakova/lib
 # edit_uri: edit/main/docs/
-copyright: © Белякова А. К., 2020–2022
+copyright: © Белякова А. К., 2020–2023
 nav:
   - index.md
   - news.md
