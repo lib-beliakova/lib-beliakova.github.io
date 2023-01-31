@@ -167,3 +167,37 @@
 Всегда нужно помогать своим родителям! О моей помощи написано в этом стихотворении.
 
 [:octicons-book-16: Читать](help.md){ .md-button }
+
+## Читайте также
+
+<div align="center">
+
+<div class="menu-figures">
+<a href="../stories">
+<figure><img class="menu-img" width="128" height="128" src="../images/small/snowman.jpg" />
+<figcaption>Рассказы</figcaption>
+</figure></a>
+</div>
+
+<div class="menu-figures">
+<a href="../tales">
+<figure><img class="menu-img" width="128" height="128" src="../images/small/bird-princess.jpg" />
+<figcaption>Сказки</figcaption>
+</figure></a>
+</div>
+
+<div class="menu-figures">
+<a href="../fanfics">
+<figure><img class="menu-img" width="128" height="128" src="../images/small/filiamon.jpg" />
+<figcaption>Фанфики</figcaption>
+</figure></a>
+</div>
+
+<div class="menu-figures">
+<a href="../riddles">
+<figure><img class="menu-img" width="128" height="128" src="../images/small/riddles.jpg" />
+<figcaption>Загадки</figcaption>
+</figure></a>
+</div>
+
+</div>

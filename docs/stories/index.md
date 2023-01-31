@@ -79,3 +79,37 @@
 Осенью природа становится ярче и удивительнее. О прогулке в тереме осени и маленьком подарке читайте в этом рассказе.
 
 [:octicons-book-16: Читать](autumn-gift.md){ .md-button }
+
+## Читайте также
+
+<div align="center">
+
+<div class="menu-figures">
+<a href="../tales">
+<figure><img class="menu-img" width="128" height="128" src="../images/small/bird-princess.jpg" />
+<figcaption>Сказки</figcaption>
+</figure></a>
+</div>
+
+<div class="menu-figures">
+<a href="../poems">
+<figure><img class="menu-img" width="128" height="128" src="../images/small/dad-hedgehog.jpg" />
+<figcaption>Стихи</figcaption>
+</figure></a>
+</div>
+
+<div class="menu-figures">
+<a href="../fanfics">
+<figure><img class="menu-img" width="128" height="128" src="../images/small/filiamon.jpg" />
+<figcaption>Фанфики</figcaption>
+</figure></a>
+</div>
+
+<div class="menu-figures">
+<a href="../riddles">
+<figure><img class="menu-img" width="128" height="128" src="../images/small/riddles.jpg" />
+<figcaption>Загадки</figcaption>
+</figure></a>
+</div>
+
+</div>

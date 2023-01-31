@@ -36,3 +36,19 @@ pre {
   -webkit-mask-image: var(--md-admonition-icon--audio);
           mask-image: var(--md-admonition-icon--audio);
 }
+img {
+  border-radius: 5%;
+}
+.menu-figures {
+  display: inline-block;
+  padding: 0px 8px;
+}
+.menu-img {
+  border-radius: 20%;
+}
+.md-typeset figure {
+  margin: 0px;
+}
+.md-typeset figcaption {
+    margin: 0.2em auto 0.8em auto;
+}

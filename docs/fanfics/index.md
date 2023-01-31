@@ -21,5 +21,36 @@
 
 ---
 
-!!! note "Сказки"
-    Читайте также мои [сказки с оригинальным сюжетом](../tales/index.md), для детей и взрослых.
+## Читайте также
+
+<div align="center">
+
+<div class="menu-figures">
+<a href="../stories">
+<figure><img class="menu-img" width="128" height="128" src="../images/small/snowman.jpg" />
+<figcaption>Рассказы</figcaption>
+</figure></a>
+</div>
+
+<div class="menu-figures">
+<a href="../tales">
+<figure><img class="menu-img" width="128" height="128" src="../images/small/bird-princess.jpg" />
+<figcaption>Сказки</figcaption>
+</figure></a>
+</div>
+
+<div class="menu-figures">
+<a href="../poems">
+<figure><img class="menu-img" width="128" height="128" src="../images/small/dad-hedgehog.jpg" />
+<figcaption>Стихи</figcaption>
+</figure></a>
+</div>
+
+<div class="menu-figures">
+<a href="../riddles">
+<figure><img class="menu-img" width="128" height="128" src="../images/small/riddles.jpg" />
+<figcaption>Загадки</figcaption>
+</figure></a>
+</div>
+
+</div>

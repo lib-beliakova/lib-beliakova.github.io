@@ -35,5 +35,36 @@
 
 ---
 
-!!! note "Фанфики"
-    Мои сказки по мотивам популярных оригинальных произведений собраны в отдельном разделе [Фанфики](../fanfics/index.md).
+## Читайте также
+
+<div align="center">
+
+<div class="menu-figures">
+<a href="../stories">
+<figure><img class="menu-img" width="128" height="128" src="../images/small/snowman.jpg" />
+<figcaption>Рассказы</figcaption>
+</figure></a>
+</div>
+
+<div class="menu-figures">
+<a href="../poems">
+<figure><img class="menu-img" width="128" height="128" src="../images/small/dad-hedgehog.jpg" />
+<figcaption>Стихи</figcaption>
+</figure></a>
+</div>
+
+<div class="menu-figures">
+<a href="../fanfics">
+<figure><img class="menu-img" width="128" height="128" src="../images/small/filiamon.jpg" />
+<figcaption>Фанфики</figcaption>
+</figure></a>
+</div>
+
+<div class="menu-figures">
+<a href="../riddles">
+<figure><img class="menu-img" width="128" height="128" src="../images/small/riddles.jpg" />
+<figcaption>Загадки</figcaption>
+</figure></a>
+</div>
+
+</div>
