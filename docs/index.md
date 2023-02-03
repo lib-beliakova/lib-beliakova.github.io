@@ -2,7 +2,7 @@
 
 Здравствуйте! Меня зовут Белякова Анастасия. Мне одиннадцать лет, я живу в городе [Тула](https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D0%BB%D0%B0), и моё хобби -- сочинять сказки, стихи, рассказы и загадки.
 
-<div align="center">
+<div class="figures-wrapper">
 
 <div class="menu-figures">
 <a href="stories">

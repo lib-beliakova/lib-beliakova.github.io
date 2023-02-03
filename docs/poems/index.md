@@ -176,7 +176,7 @@
 
 ## Читайте также
 
-<div align="center">
+<div class="figures-wrapper">
 
 <div class="menu-figures">
 <a href="../stories">
