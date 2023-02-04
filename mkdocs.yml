@@ -80,7 +80,7 @@ theme:
       - navigation.indexes
 #      - navigation.expand
 extra_css:
-    - extra.css
+    - extra-styles-v1.css
 extra:
     generator: false
     analytics:
