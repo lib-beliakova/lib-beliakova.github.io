@@ -20,7 +20,7 @@
 Порой поход в магазин за новым платьем может обернуться неожиданным приключением. Особенно, если поблизости окажется добропорядочный дракон. В такое приключение и попала царевна Маша, главная героиня этой юмористической истории.
 
 [:octicons-book-16: Читать сказку](Masha-rasteryasha.md){ .md-button }
-[:material-headphones: Слушать аудиосказку](../audio/tales/Masha-rasteryasha.mp3){ .md-button }
+[:material-headphones: Слушать аудиосказку](../audio/tales/Masha-rasteryasha-2.mp3){ .md-button }
 
 ---
 
