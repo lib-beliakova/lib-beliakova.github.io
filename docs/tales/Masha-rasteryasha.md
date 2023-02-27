@@ -2,10 +2,10 @@
 
 !!! audio "Слушать аудиоcказку"
     <audio controls preload="metadata" style="width: 100%">
-        <source src="/audio/tales/Masha-rasteryasha.ogg" type="audio/ogg">
-        <source src="/audio/tales/Masha-rasteryasha.mp3" type="audio/mpeg">
+        <source src="/audio/tales/Masha-rasteryasha-2.ogg" type="audio/ogg">
+        <source src="/audio/tales/Masha-rasteryasha-2.mp3" type="audio/mpeg">
         Ваш браузер не поддерживает воспроизведение звука на странице.
-        Вы можете <a href="/audio/tales/Masha-rasteryasha.mp3">скачать аудиосказку</a>.
+        Вы можете <a href="/audio/tales/Masha-rasteryasha-2.mp3">скачать аудиосказку</a>.
     </audio>
 
 В некотором царстве, в некотором государстве жил-был царь. А у царя была дочь, царевна Маша. Маша-Растеряша. А всё потому, что... Ладно, давайте расскажу всё по порядку.
