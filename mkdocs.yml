@@ -106,6 +106,9 @@ extra:
     - icon: fontawesome/brands/youtube 
       link: https://www.youtube.com/@a-tunes
       name: Канал на YouTube
+    - icon: material/book-open-variant
+      link: https://proza.ru/avtor/naaastyaaa
+      name: Автор на Проза.ру
 markdown_extensions:
   - def_list
   - pymdownx.magiclink # auto-link HTML, FTP, and email links https://facelessuser.github.io/pymdown-extensions/extensions/magiclink/
