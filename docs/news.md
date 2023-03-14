@@ -1,7 +1,7 @@
 # Новости
 
-!!! info "Новости в Telegram"
-    Чтобы не пропускать новости, подпишитесь на [канал сайта в Telegram :fontawesome-brands-telegram:](https://t.me/lib_beliakova).
+!!! info "Новости в Telegram и VK"
+    Чтобы не пропускать новости, подпишитесь на [канал сайта в Telegram :fontawesome-brands-telegram:](https://t.me/lib_beliakova) или [страницу ВКонтакте :fontawesome-brands-vk:](https://vk.com/lib_beliakova).
 
 ## 14.03.2023: Стихотворение "Ослик"
 

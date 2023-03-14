@@ -104,6 +104,9 @@ extra:
     - icon: fontawesome/brands/telegram 
       link: https://t.me/lib_beliakova
       name: Канал в Telegram
+    - icon: fontawesome/brands/vk 
+      link: https://vk.com/lib_beliakova
+      name: Страница ВКонтакте
     - icon: fontawesome/brands/youtube 
       link: https://www.youtube.com/@a-tunes
       name: Канал на YouTube
