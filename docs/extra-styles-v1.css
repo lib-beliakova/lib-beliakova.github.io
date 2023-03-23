@@ -15,6 +15,10 @@ pre {
 [data-md-color-scheme="slate"] {
     --link-color: #58a6ff;
 }
+a.announce-link {
+  color: #58a6ff !important;
+  text-decoration: underline !important;
+}
 .md-typeset .md-button {
   border-radius: 0.3rem;
   font-weight: 400;

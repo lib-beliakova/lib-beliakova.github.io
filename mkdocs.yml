@@ -82,6 +82,7 @@ theme:
         name: Светлое оформление
     features:
       - navigation.indexes
+      - announce.dismiss
 #      - navigation.expand
 extra_css:
     - extra-styles-v1.css
