@@ -19,6 +19,9 @@ a.announce-link {
   color: #58a6ff !important;
   text-decoration: underline !important;
 }
+article > p {
+  text-align: justify
+}
 .md-typeset .md-button {
   border-radius: 0.3rem;
   font-weight: 400;
