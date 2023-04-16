@@ -32,6 +32,7 @@ nav:
      - fanfics/smeshariki.md
   - Стихотворения:
      - poems/index.md
+     - poems/about-spring.md
      - poems/donkey.md
      - poems/coast-of-poetry.md
      - poems/before-sunrise.md
@@ -111,7 +112,7 @@ extra:
     - icon: fontawesome/brands/vk 
       link: https://vk.com/lib_beliakova
       name: Страница ВКонтакте
-    - icon: fontawesome/brands/youtube 
+    - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/@a-tunes
       name: Канал на YouTube
     - icon: material/book-open-variant
