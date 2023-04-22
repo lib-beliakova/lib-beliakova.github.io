@@ -16,8 +16,28 @@ pre {
     --link-color: #58a6ff;
 }
 a.announce-link {
-  color: #58a6ff !important;
-  text-decoration: underline !important;
+  color: var(--md-primary-fg-color);
+  background-color: white;
+  border: .1rem solid;
+  border-radius: .4rem;
+  display: inline-block;
+  font-weight: 700;
+  padding: .625em 2em;
+}
+a.announce-link:hover {
+  color: white;
+  background-color: var(--md-primary-fg-color);
+  border: .1rem solid;
+  border-radius: .4rem;
+  display: inline-block;
+  font-weight: 700;
+  padding: .625em 2em;
+}
+.md-banner {
+  background-color: #00b8d4;
+}
+.md-banner__inner {
+  text-align: center;
 }
 article > p {
   text-align: justify

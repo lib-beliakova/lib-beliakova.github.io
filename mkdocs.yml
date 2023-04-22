@@ -88,7 +88,7 @@ theme:
       - announce.dismiss
 #      - navigation.expand
 extra_css:
-    - extra-styles-v2.css
+    - extra-styles-v3.css
 extra:
     generator: false
     analytics:
