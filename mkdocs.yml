@@ -88,7 +88,7 @@ theme:
       - announce.dismiss
 #      - navigation.expand
 extra_css:
-    - extra-styles-v3.css
+    - extra-styles-v4.css
 extra:
     generator: false
     analytics:
@@ -100,7 +100,10 @@ extra:
             - icon: material/thumb-up-outline
               name: Да
               data: 1
-              note: Спасибо! Я рада, что вам понравилось.
+              note: >-
+                Спасибо! Я рада, что вам понравилось.
+                Подпишитесь на канал этого сайта в Telegram и участвуйте в розыгрыше моей книги!<br/>
+                <a class="md-button" href="https://t.me/lib_beliakova/32">Хочу участвовать!</a>
             - icon: material/thumb-down-outline
               name: Нет
               data: 0

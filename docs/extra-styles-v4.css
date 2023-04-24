@@ -34,7 +34,7 @@ a.announce-link:hover {
   padding: .625em 2em;
 }
 .md-banner {
-  background-color: #00b8d4;
+  background: linear-gradient(#65477c, #9198e5);
 }
 .md-banner__inner {
   text-align: center;
