@@ -39,6 +39,13 @@
 </figure></a>
 </div>
 
+<div class="menu-figures">
+<a href="boulsport">
+<figure><img class="menu-img" width="128" height="128" src="images/small/boulsport.jpg" />
+<figcaption>Боулспорт</figcaption>
+</figure></a>
+</div>
+
 </div>
 
 На этом сайте вы можете ознакомиться с моим творчеством. Я стараюсь каждую неделю обновлять сайт, все новинки вы сможете увидеть в разделе [Новости](news.md). Чтобы не пропускать новости, подпишитесь на [канал сайта в Telegram :fontawesome-brands-telegram:](https://t.me/lib_beliakova) или [страницу ВКонтакте :fontawesome-brands-vk:](https://vk.com/lib_beliakova).

@@ -50,7 +50,6 @@ nav:
      - poems/my-school-day.md
      - poems/avian-dinner.md
      - poems/my-dad.md
-     - poems/petank.md
      - poems/the-hare.md
      - poems/dad-hedgehog.md
      - poems/zapominalochka.md
@@ -58,6 +57,11 @@ nav:
      - poems/the-crow.md
      - poems/help.md
   - Загадки: riddles.md
+  - Боулспорт:
+     - boulsport/index.md
+     - boulsport/Gorynysh-and-petank.md
+     - boulsport/38-parrots.md
+     - boulsport/petank.md
 plugins:
   - search
   - i18n:
