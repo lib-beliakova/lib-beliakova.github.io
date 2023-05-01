@@ -105,9 +105,7 @@ extra:
               name: Да
               data: 1
               note: >-
-                Спасибо! Я рада, что вам понравилось.
-                Подпишитесь на канал этого сайта в Telegram и участвуйте в розыгрыше моей книги!<br/>
-                <a class="md-button" href="https://t.me/lib_beliakova/32">Хочу участвовать!</a>
+                Спасибо! Если вам нравится моё творчество, подпишитесь на мой <a href="https://t.me/lib_beliakova">канал в Telegram</a>!
             - icon: material/thumb-down-outline
               name: Нет
               data: 0
