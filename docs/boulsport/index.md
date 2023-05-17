@@ -15,6 +15,8 @@
 
 [:octicons-book-16: Читать](anthem.md){ .md-button }
 
+---
+
 ## Горыныч и петанк
 
 ![Горыныч и петанк](../images/small/Zmeyusha.jpg)
