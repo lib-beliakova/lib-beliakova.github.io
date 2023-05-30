@@ -32,6 +32,7 @@ nav:
      - fanfics/smeshariki.md
   - Стихотворения:
      - poems/index.md
+     - poems/cats.md
      - poems/green-stick-legend.md
      - poems/about-spring.md
      - poems/donkey.md
@@ -94,7 +95,7 @@ theme:
       - announce.dismiss
 #      - navigation.expand
 extra_css:
-    - extra-styles-v4.css
+    - extra-styles-v5.css
 extra:
     generator: false
     analytics:
