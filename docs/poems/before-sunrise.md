@@ -3,7 +3,7 @@
 !!! audio "Моё стихотворение читает известный писатель и поэт Дмитрий Кравченко"
     <audio controls preload="metadata" style="width: 100%">
         <source src="/audio/poems/before-sunrise.ogg" type="audio/ogg">
-        <source src="/audio/poems/before-sunrise..mp3" type="audio/mpeg">
+        <source src="/audio/poems/before-sunrise.mp3" type="audio/mpeg">
         Ваш браузер не поддерживает воспроизведение звука на странице.
         Вы можете <a href="/audio/tales/Masha-rasteryasha-2.mp3">скачать аудио</a>.
     </audio>
