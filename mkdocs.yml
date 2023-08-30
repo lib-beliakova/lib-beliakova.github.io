@@ -74,12 +74,12 @@ plugins:
   - search
   - i18n:
       docs_structure: suffix
-      default_language: ru
       languages:
-        ru:
+        - locale: ru
           name: Russian
           build: true
           site_name: "Литературное творчество Беляковой Анастасии"
+          default: true
 theme:
     name: material
     custom_dir: overrides
