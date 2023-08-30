@@ -131,6 +131,9 @@ extra:
     - icon: material/book-open-variant
       link: https://proza.ru/avtor/naaastyaaa
       name: Автор на Проза.ру
+    - icon: material/feather
+      link: https://stihi.ru/avtor/libbeliakova
+      name: Автор на Стихи.ру
 markdown_extensions:
   - def_list
   - pymdownx.magiclink # auto-link HTML, FTP, and email links https://facelessuser.github.io/pymdown-extensions/extensions/magiclink/
