@@ -1,4 +1,4 @@
-site_name: Литературное творчество Беляковой Анастасии
+site_name: Стихи и проза Насти Беляковой
 site_url: https://lib-beliakova.github.io/
 # repo_url: https://github.com/lib-beliakova/lib
 # edit_uri: edit/main/docs/
@@ -80,7 +80,7 @@ plugins:
         - locale: ru
           name: Russian
           build: true
-          site_name: "Литературное творчество Беляковой Анастасии"
+          site_name: "Стихи и проза Насти Беляковой"
           default: true
 theme:
     name: material
