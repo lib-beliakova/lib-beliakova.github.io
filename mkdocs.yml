@@ -5,6 +5,7 @@ site_url: https://lib-beliakova.github.io/
 copyright: © Белякова А. К., 2020–2023. Не допускается копирование материалов сайта без письменного разрешения правообладателя и указания ссылки на первоисточник.
 nav:
   - index.md
+  - achievements.md
   - news.md
   - Рассказы:
      - stories/index.md
@@ -102,7 +103,7 @@ theme:
       - announce.dismiss
 #      - navigation.expand
 extra_css:
-    - extra-styles-v5.css
+    - extra-styles-v6.css
 extra:
     generator: false
     analytics:

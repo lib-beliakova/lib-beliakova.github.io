@@ -46,4 +46,4 @@
 
 ![Брошюры с правилами игр и текстом гимна](../images/boulsport-broshures.jpg)
 
-![Диплом](../images/diplom-boulsport.jpg)
+![Диплом](../images/achievements/diplom-boulsport.jpg)

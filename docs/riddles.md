@@ -45,7 +45,7 @@
 
 Загадки выше участвовали в конкурсе "Весёлый багаж".
 
-![Грамота](images/gramota.jpg)
+![Грамота](images/achievements/gramota.jpg)
 
 ***
 
