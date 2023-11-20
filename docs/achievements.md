@@ -165,7 +165,7 @@
     </div>
     <!--11-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/diplom.jpg" style="width:100%">
+      <img src="../images/achievements/birds-stories.jpg" style="width:100%">
     </div>
     <!--12-->
     <div class="lb-mySlides">
