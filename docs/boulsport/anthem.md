@@ -1,5 +1,7 @@
 # Гимн российского боулспорта
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wo4Lbd6_pWI?si=1SP8AM6U5KRfid4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Спортсмены вышли все на корт,  
 Сегодня праздник -- боулспорт.  
 Нас ждёт сражение в шары,  
