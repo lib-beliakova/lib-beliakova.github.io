@@ -1,5 +1,13 @@
 # Тихо трепещет заснеженный лес...
 
+!!! audio "Слушать стихотворение"
+    <audio controls preload="metadata" style="width: 100%">
+        <source src="/audio/poems/forest-is-quivering.ogg" type="audio/ogg">
+        <source src="/audio/poems/forest-is-quivering.mp3" type="audio/mpeg">
+        Ваш браузер не поддерживает воспроизведение звука на странице.
+        Вы можете <a href="/audio/poems/forest-is-quivering.mp3">скачать аудио</a>.
+    </audio>
+
 Тихо трепещет заснеженный лес.  
 Воздух застыл в ожиданьи чудес.  
 Вьюга лишь стихла, недавно витала.  
