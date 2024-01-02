@@ -3,6 +3,12 @@
 !!! info "Новости в Telegram и VK"
     Чтобы не пропускать новости, подпишитесь на [канал сайта в Telegram :fontawesome-brands-telegram:](https://t.me/lib_beliakova) или [страницу ВКонтакте :fontawesome-brands-vk:](https://vk.com/lib_beliakova).
 
+## 01.01.2024: Когда же родилась ёлочка?
+
+Без песенки "В лесу родилась ёлочка" нельзя представить новогодних праздников. Как же она появилась? Узнаете из моего сюжета, снятого школьной телестудией.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iFPlFkF1x0w?si=qI8T4ktWW43WstfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## 29.12.2023: "Новогоднее прочтение стихотворения "Тихо трепещет заснеженный лес..."
 
 Поздравляю вас с наступающим Новым годом! Пусть он принесёт с собой только хорошее! В преддверии праздника я хочу поделиться с вами новогодним прочтением своего стихотворения [Тихо трепещет заснеженный лес](poems/forest-is-quivering.md).
