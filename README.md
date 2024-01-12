@@ -15,3 +15,13 @@ The repository contains sources of the [Anastasiia Beliakova Library](https://li
    ```
 
 3. Navigate to http://localhost:8000/ in your web browser.
+
+## DOCX files
+
+To build DOCX files together with HTML, use the following command:
+
+```
+docker run -e ENABLE_PANDOC='1' --rm -itp 8000:8000 -v "$(pwd):/d" lib-beliakova
+```
+
+Links to DOCX files will be added at the bottom of each page.

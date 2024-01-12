@@ -89,6 +89,14 @@ plugins:
           build: true
           site_name: "Стихи и проза Насти Беляковой"
           default: true
+  - pandoc:
+      enabled_if_env: ENABLE_PANDOC
+      pandoc_args:
+        from: markdown+rebase_relative_paths-implicit_figures
+        to: docx
+        metadata: lang:ru-RU
+        resource-path: /d/pandoc-resources
+        reference-doc: reference.docx
 theme:
     name: material
     custom_dir: overrides
