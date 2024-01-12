@@ -1,5 +1,8 @@
 # Иван-дворник и царевна-птица
 
+7 минут
+{ .md-time-to-read }
+
 !!! audio "Слушать аудиосказку"
     <audio controls preload="metadata" style="width: 100%">
         <source src="/audio/tales/Ivan-dvornik.ogg" type="audio/ogg">

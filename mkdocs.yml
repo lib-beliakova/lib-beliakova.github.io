@@ -109,7 +109,7 @@ theme:
       - announce.dismiss
 #      - navigation.expand
 extra_css:
-    - extra-styles-v6.css
+    - extra-styles-v7.css
 extra:
     generator: false
     analytics:

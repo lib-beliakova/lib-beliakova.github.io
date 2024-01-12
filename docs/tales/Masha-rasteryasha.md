@@ -1,5 +1,8 @@
 # Сказка о Маше-Растеряше
 
+8 минут
+{ .md-time-to-read }
+
 !!! audio "Слушать аудиоcказку"
     <audio controls preload="metadata" style="width: 100%">
         <source src="/audio/tales/Masha-rasteryasha-2.ogg" type="audio/ogg">

@@ -1,5 +1,8 @@
 # Радужная лама
 
+4 минуты
+{ .md-time-to-read }
+
 !!! audio "Слушать аудиосказку"
     <audio controls preload="metadata" style="width: 100%">
         <source src="/audio/tales/rainbow-lama.ogg" type="audio/ogg">

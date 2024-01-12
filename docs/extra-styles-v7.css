@@ -44,6 +44,17 @@ a.announce-link:hover {
 article > p {
   text-align: justify
 }
+h1 + .md-time-to-read {
+  font-size: 0.6rem;
+  font-style: italic;
+  margin-top: -3em;
+  color: var(--md-default-fg-color--light);
+}
+h1 + .md-time-to-read:before {
+  content: "🕑 ";
+  font-style: normal;
+  font-size: 0.8rem;
+}
 .md-typeset .md-button {
   border-radius: 0.3rem;
   font-weight: 400;
