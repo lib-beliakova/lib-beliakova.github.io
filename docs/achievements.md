@@ -107,19 +107,27 @@
 </div>
 <!--7-->
 <div class="lb-row">
-  <div class="lb-column-5">
-    <img src="../images/achievements/second-sertificate.jpg"
+  <div class="lb-column-4">
+    <img src="../images/achievements/diplom-strana.jpg"
          onclick="openModal();currentSlide(18)"
          class="lb-hover-shadow">
   </div>
+</div>
+<!--8-->
+<div class="lb-row">
   <div class="lb-column-5">
-    <img src="../images/achievements/third-sertificate.jpg"
+    <img src="../images/achievements/second-sertificate.jpg"
          onclick="openModal();currentSlide(19)"
          class="lb-hover-shadow">
   </div>
   <div class="lb-column-5">
-    <img src="../images/achievements/sertificate-Literary-course-for-bloggers.jpg"
+    <img src="../images/achievements/third-sertificate.jpg"
          onclick="openModal();currentSlide(20)"
+         class="lb-hover-shadow">
+  </div>
+  <div class="lb-column-5">
+    <img src="../images/achievements/sertificate-Literary-course-for-bloggers.jpg"
+         onclick="openModal();currentSlide(21)"
          class="lb-hover-shadow">
   </div>
   <div class="lb-column-5">
@@ -129,7 +137,7 @@
   </div>
   <div class="lb-column-5">
     <img src="../images/achievements/sertificate-We-are-beginners-poets.jpg"
-         onclick="openModal();currentSlide(22)"
+         onclick="openModal();currentSlide(23)"
          class="lb-hover-shadow">
   </div>
 </div>
@@ -208,21 +216,25 @@
     </div>
     <!--18-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/second-sertificate.jpg" style="width:100%">
+      <img src="../images/achievements/diplom-strana.jpg" style="width:100%">
     </div>
     <!--19-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/third-sertificate.jpg" style="width:100%">
+      <img src="../images/achievements/second-sertificate.jpg" style="width:100%">
     </div>
     <!--20-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/sertificate-Literary-course-for-bloggers.jpg" style="width:100%">
+      <img src="../images/achievements/third-sertificate.jpg" style="width:100%">
     </div>
     <!--21-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/sertificate-Skazkotvorenie.jpg" style="width:100%">
+      <img src="../images/achievements/sertificate-Literary-course-for-bloggers.jpg" style="width:100%">
     </div>
     <!--22-->
+    <div class="lb-mySlides">
+      <img src="../images/achievements/sertificate-Skazkotvorenie.jpg" style="width:100%">
+    </div>
+    <!--23-->
     <div class="lb-mySlides">
       <img src="../images/achievements/sertificate-We-are-beginners-poets.jpg" style="width:100%">
     </div>
@@ -284,4 +296,4 @@ function showSlides(n) {
 | Журнал "Ёж"                                                 | Рассказ [Первый на орбите](stories/first-in-orbit.md)|
 | Газета "Антошка"                                            | Стихотворения [На коньках](poems/skating.md), [Папа-ёж](poems/dad-hedgehog.md) и [Шаги зимы](poems/winter.md) |
 | Журнал "Детское чтение для сердца и разума"                 | Стихотворения [На коньках](poems/skating.md), [Осенний парад](poems/autumn-parade.md), [Заяц](poems/the-hare.md) и [Папа-ёж](poems/dad-hedgehog.md) |
-| Журнал "МАвочки и ДЕльчики"                                 | Рассказы [Лето в которое случилось это](stories/summer.md), [Жил да был Снеговик...](stories/snowman.md), [Подготовка к празднику](stories/preparation-for-festival.md), [Как Петя заварил кашу](stories/petya.md), [Подарок](stories/autumn-gift.md), [Однажды под нашим домом](stories/under-our-house.md) и [Подарок осени](stories/autumn-gift.md); cказка [Радужная лама](tales/rainbow-lama.md). |
+| Журнал "МАвочки и ДЕльчики"                                 | Рассказы [Лето в которое случилось это](stories/summer.md), [Жил да был Снеговик...](stories/snowman.md), [Подготовка к празднику](stories/preparation-for-festival.md), [Как Петя заварил кашу](stories/petya.md), [Подарок](stories/present-mashka.md), [Однажды под нашим домом](stories/under-our-house.md) и [Подарок осени](stories/autumn-gift.md); cказка [Радужная лама](tales/rainbow-lama.md). |
