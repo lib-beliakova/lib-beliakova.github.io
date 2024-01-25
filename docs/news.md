@@ -3,6 +3,20 @@
 !!! info "Новости в Telegram и VK"
     Чтобы не пропускать новости, подпишитесь на [канал сайта в Telegram :fontawesome-brands-telegram:](https://t.me/lib_beliakova) или [страницу ВКонтакте :fontawesome-brands-vk:](https://vk.com/lib_beliakova).
 
+## 25.01.2024: Новые победы
+
+Раздел [Достижения](achievements.md) пополнился двумя дипломами.
+
+За стихотворение [Двенадцать](poems/twelve.md):
+
+??? note "Диплом конкурса \"Разноцветные сезоны\""
+    ![Диплом "Разноцветные сезоны"](images/achievements/diplom-seasons.jpg)
+
+За рассказ [Подарок](stories/present-mashka.md):
+
+??? note "Диплом конкурса \"Семейный истории\""
+    ![Диплом "Семейные истории"](images/achievements/diplom-family.jpg)
+
 ## 21.01.2024: Рассказ "Сосед сверху"
 
 Недавно над нашей квартирой поселился интересный жилец. С ним вы познакомитесь в моём новом рассказе [Сосед сверху](stories/upstairs-neighbor.md).
