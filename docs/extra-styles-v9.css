@@ -42,7 +42,13 @@ a.announce-link:hover {
   text-align: center;
 }
 article > p {
-  text-align: justify
+  text-align: justify;
+}
+article > p:has(br) {
+  text-align: left;
+  text-indent: 1em hanging each-line;
+  line-height: 1.3;
+  margin: 1.6em 0 1.6em 1em;
 }
 h1 + .md-time-to-read {
   font-size: 0.6rem;
