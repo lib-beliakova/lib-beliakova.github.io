@@ -38,43 +38,47 @@ nav:
      - fanfics/stolen-sun.md
      - fanfics/smeshariki.md
   - Стихотворения:
-     - poems/index.md
-     - poems/ink-lines.md
-     - poems/winter-dream.md
-     - poems/twelve.md
-     - poems/winter-walk.md
-     - poems/loss.md
-     - poems/garden-of-autumn.md
-     - poems/old-piano.md
-     - poems/old-palace.md
-     - poems/chamomile.md
-     - poems/summer.md
-     - poems/cats.md
-     - poems/green-stick-legend.md
-     - poems/about-spring.md
-     - poems/donkey.md
-     - poems/coast-of-poetry.md
-     - poems/before-sunrise.md
-     - poems/sunset.md
-     - poems/country.md
-     - poems/winter.md
-     - poems/autumn-parade.md
-     - poems/skating.md
-     - poems/after-storm.md
-     - poems/forest-is-quivering.md
-     - poems/it-was-autumn.md
-     - poems/autumn.md
-     - poems/unicorn.md
-     - poems/poets.md
-     - poems/my-school-day.md
-     - poems/avian-dinner.md
-     - poems/my-dad.md
-     - poems/the-hare.md
-     - poems/dad-hedgehog.md
-     - poems/zapominalochka.md
-     - poems/april.md
-     - poems/the-crow.md
-     - poems/help.md
+    - poems/index.md
+    - Круговорот сезонов:
+      - poems/twelve.md
+      - poems/winter-walk.md
+      - poems/forest-is-quivering.md
+      - poems/avian-dinner.md
+      - poems/winter-dream.md
+      - poems/about-spring.md
+      - poems/after-storm.md
+      - poems/country.md
+      - poems/summer.md
+      - poems/garden-of-autumn.md
+      - poems/autumn-parade.md
+      - poems/it-was-autumn.md
+      - poems/autumn.md
+      - poems/sunset.md
+      - poems/winter.md
+      - poems/skating.md
+    - Для детей:
+      - poems/cats.md
+      - poems/donkey.md
+      - poems/unicorn.md
+      - poems/my-school-day.md
+      - poems/my-dad.md
+      - poems/the-hare.md
+      - poems/dad-hedgehog.md
+      - poems/zapominalochka.md
+      - poems/april.md
+      - poems/the-crow.md
+      - poems/help.md
+    - Моменты жизни:
+      - poems/loss.md
+      - poems/old-piano.md
+      - poems/chamomile.md
+      - poems/old-palace.md
+      - poems/green-stick-legend.md
+    - О вдохновении:
+      - poems/ink-lines.md
+      - poems/poets.md
+      - poems/coast-of-poetry.md
+      - poems/before-sunrise.md
   - Загадки: riddles.md
   - Боулспорт:
      - boulsport/index.md
@@ -118,6 +122,8 @@ theme:
     features:
       - navigation.indexes
       - announce.dismiss
+      - navigation.top
+      - navigation.footer
 #      - navigation.expand
 extra_css:
     - extra-styles-v9.css
@@ -166,6 +172,7 @@ markdown_extensions:
   - tables # https://python-markdown.github.io/extensions/tables/
   - admonition # tips & notes (!!! note) https://squidfunk.github.io/mkdocs-material/reference/admonitions/
   - attr_list # https://python-markdown.github.io/extensions/attr_list/
+  - md_in_html
   - smarty # converts ASCII dashes, quotes and ellipses to their HTML entity equivalents https://python-markdown.github.io/extensions/smarty/
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
