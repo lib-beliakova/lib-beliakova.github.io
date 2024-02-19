@@ -46,6 +46,13 @@
 </figure></a>
 </div>
 
+<div class="menu-figures">
+<a href="blog">
+<figure><img class="menu-img" width="128" height="128" src="images/small/quote.jpg" />
+<figcaption>Блог</figcaption>
+</figure></a>
+</div>
+
 </div>
 
 На этом сайте вы можете ознакомиться с моим творчеством. Сайт обновляется каждую неделю, все новинки вы сможете увидеть в разделе [Новости](news.md). Чтобы не пропускать новости, обсудить произведения или просто пообщаться, подпишитесь на [канал сайта в Telegram :fontawesome-brands-telegram:](https://t.me/lib_beliakova) или [страницу ВКонтакте :fontawesome-brands-vk:](https://vk.com/lib_beliakova). Всегда рада новым друзьям!

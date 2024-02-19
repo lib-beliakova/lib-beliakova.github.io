@@ -1,10 +1,11 @@
-# Ясная Поляна
-
-3 минуты
-{ .md-time-to-read }
+---
+date: 2023-06-08
+authors: [ beliakova ]
+---
+# Ясная Поляна { #Yasnaya-Polyana }
 
 Многие знают деревню Ясная Поляна, в которой расположена усадьба великого писателя Льва Николаевича Толстого. Любой турист, который сюда приедет, обязательно увидит башни въезда, Большой пруд, прешпект, дом писателя, флигель Кузьминских, посетит могилу Льва Толстого. На этом у большинства знакомство с Ясной Поляной и закончится. Но я хотела рассказать вам о немного другой Ясной Поляне, о тех местах, которые скрыты за основными достопримечательностями.
-
+<!-- more -->
 Если не входить во въездные ворота, а пройти по асфальтовой дороге до конца деревни, то вам откроются две тропы -- прямо и направо. Идя по правой тропе вы увидите маленький пруд с необитаемым островком, на котором растёт стройная берёза. Вода затянута сеткой ряски с тёмными прогалами, где плавают дикие утки.
 
 Дойдёте до угла берёзовой рощи и увидите пруд побольше. Это Камзоловский пруд, на котором хорошо порыбачить. А по берегу пруда гуляют бычки, задумчиво пощипывая траву. Вы обогнёте рощу и пойдёте дальше, а по правую руку у вас будет овраг, склоны которого поросли высокой травой и мелкими кустами, а на дне едва слышно журчит речка Кочаки, маленькая и узенькая.
@@ -13,13 +14,11 @@
 
 Слева у вас окажется сияющая на солнце запруженная река Кочаки -- Кочаковский пруд, о котором нередко упоминал писатель в своих произведениях, письмах и дневниках.
 
-Неподалёку есть тропа, ведущая в уютный лесок Ёлочки под Грумантом, над которым можно увидеть пролетающих аистов. Если пройти по ней дальше, вы попадёте в тихую лесную глубь. По весне там всё пестрит от первоцветов и разных растений, как всем известных (медуница, ветреница), так и редких, выходящих на поверхность раз в несколько лет -- таков ядовитый Петров крест, сиреневое или розоватое растение, похожее на щупальце подземного осьминога. "Там встречали мы ужей, видели в кустах ежей" -- эти строки из первого варианта моего [стихотворения "Зелёная палочка"](../poems/green-stick-legend.md), описывающие жителей тамошних мест. Кроме ужей и ежей, если повезёт, вы встретите косуль, настороженных и красивых животных. Вы увидите мелкие лесные пруды с дикими утками, поваленные изумрудные от мха деревья, ставшими мостами через многочисленные овраги. Если идти всё дальше и дальше, то вы вернётесь в усадьбу Льва Николаевича.
+Неподалёку есть тропа, ведущая в уютный лесок Ёлочки под Грумантом, над которым можно увидеть пролетающих аистов. Если пройти по ней дальше, вы попадёте в тихую лесную глубь. По весне там всё пестрит от первоцветов и разных растений, как всем известных (медуница, ветреница), так и редких, выходящих на поверхность раз в несколько лет -- таков ядовитый Петров крест, сиреневое или розоватое растение, похожее на щупальце подземного осьминога. "Там встречали мы ужей, видели в кустах ежей" -- эти строки из первого варианта моего [стихотворения "Зелёная палочка"](../../poems/green-stick-legend.md), описывающие жителей тамошних мест. Кроме ужей и ежей, если повезёт, вы встретите косуль, настороженных и красивых животных. Вы увидите мелкие лесные пруды с дикими утками, поваленные изумрудные от мха деревья, ставшими мостами через многочисленные овраги. Если идти всё дальше и дальше, то вы вернётесь в усадьбу Льва Николаевича.
 
 А если не идти в Ёлочки под Грумантом, а остаться на склоне холма, вы увидите плотину и водоотвод, служащий для того, чтобы Кочаковский пруд не выходил из берегов. Вода сливается по другую от пруда сторону плотины и пополняет реку Воронку. Можно так и путешествовать вдоль реки, идя по краю леса. Есть неприметная тропка, по которой вы сможете выйти через лес к могиле Льва Николаевича Толстого совершенно неожиданным путём. А можно всё идти вперёд, никуда не сворачивая. Река причудливо петляет, удивительно хитро оплетает островки суши и деревья. Удивляют и названия посадок, рощ, сменяющиеся одни за другими: Митрофановская посадка, Самородный лес, лес Осинник... Так можно дойти до водохранилища реки Воронки. Недалеко от начала водохранилища есть старый мост, который ведёт с северного берега Воронки на южный, к больнице имени Л.Н. Толстого.
 
 Ясная Поляна -- не только Дом и прешпект. Это открытия, неожиданные встречи и долгие прогулки. Приезжайте сюда за яркими впечатлениями!
-
-*02.06.2023 г., автору 11 лет.*
 
 ---
 
@@ -36,82 +35,82 @@
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <img src="../../images/Yasnaya-Polyana/forest.jpg">
-  <div class="text">Лес</div>
+  <img src="/images/Yasnaya-Polyana/forest.jpg">
+  <div class="text" style="text-align:center">Лес</div>
 </div>
 
 <div class="mySlides fade">
-  <img src="../../images/Yasnaya-Polyana/three-pines.jpg">
-  <div class="text">Три сосны</div>
+  <img src="/images/Yasnaya-Polyana/three-pines.jpg">
+  <div class="text" style="text-align:center">Три сосны</div>
 </div>
 
 <div class="mySlides fade">
-  <img src="../../images/Yasnaya-Polyana/field-strawberries.jpg">
-  <div class="text">Цветущая полевая клубника</div>
+  <img src="/images/Yasnaya-Polyana/field-strawberries.jpg">
+  <div class="text" style="text-align:center">Цветущая полевая клубника</div>
 </div>
 
 <div class="mySlides fade">
-  <img src="../../images/Yasnaya-Polyana/lupines.jpg">
-  <div class="text">Поляны с люпинами</div>
+  <img src="/images/Yasnaya-Polyana/lupines.jpg">
+  <div class="text" style="text-align:center">Поляны с люпинами</div>
 </div>
 
 <div class="mySlides fade">
-  <img src="../../images/Yasnaya-Polyana/birches.jpg">
-  <div class="text">Березняки</div>
+  <img src="/images/Yasnaya-Polyana/birches.jpg">
+  <div class="text" style="text-align:center">Березняки</div>
 </div>
 
 <div class="mySlides fade">
-  <img src="../../images/Yasnaya-Polyana/fly-agaric.jpg">
-  <div class="text">Мухоморы</div>
+  <img src="/images/Yasnaya-Polyana/fly-agaric.jpg">
+  <div class="text" style="text-align:center">Мухоморы</div>
 </div>
 
 <div class="mySlides fade">
-  <img src="../../images/Yasnaya-Polyana/pond.jpg">
-  <div class="text">Кочаковский пруд</div>
+  <img src="/images/Yasnaya-Polyana/pond.jpg">
+  <div class="text" style="text-align:center">Кочаковский пруд</div>
 </div>
 
 <div class="mySlides fade">
-  <img src="../../images/Yasnaya-Polyana/firs-under-Grumant.jpg">
-  <div class="text">Ёлочки под Грумантом</div>
+  <img src="/images/Yasnaya-Polyana/firs-under-Grumant.jpg">
+  <div class="text" style="text-align:center">Ёлочки под Грумантом</div>
 </div>
 
 <div class="mySlides fade">
-  <img src="../../images/Yasnaya-Polyana/toothwort.jpg">
-  <div class="text">Петров крест</div>
+  <img src="/images/Yasnaya-Polyana/toothwort.jpg">
+  <div class="text" style="text-align:center">Петров крест</div>
 </div>
 
 <div class="mySlides fade">
-  <img src="../../images/Yasnaya-Polyana/hedgehog.jpg">
-  <div class="text">Ёж</div>
+  <img src="/images/Yasnaya-Polyana/hedgehog.jpg">
+  <div class="text" style="text-align:center">Ёж</div>
 </div>
 
 <div class="mySlides fade">
-  <img src="../../images/Yasnaya-Polyana/ants.jpg">
-  <div class="text">Муравьи</div>
+  <img src="/images/Yasnaya-Polyana/ants.jpg">
+  <div class="text" style="text-align:center">Муравьи</div>
 </div>
 
 <div class="mySlides fade">
-  <img src="../../images/Yasnaya-Polyana/mushrooms.jpg">
-  <div class="text">Грибы</div>
+  <img src="/images/Yasnaya-Polyana/mushrooms.jpg">
+  <div class="text" style="text-align:center">Грибы</div>
 </div>
 
 <div class="mySlides fade">
-  <img src="../../images/Yasnaya-Polyana/caterpillar.jpg">
-  <div class="text">Гусеница</div>
+  <img src="/images/Yasnaya-Polyana/caterpillar.jpg">
+  <div class="text" style="text-align:center">Гусеница</div>
 </div>
 
 <div class="mySlides fade">
-  <img src="../../images/Yasnaya-Polyana/nuts.jpg">
-  <div class="text">Орехи</div>
+  <img src="/images/Yasnaya-Polyana/nuts.jpg">
+  <div class="text" style="text-align:center">Орехи</div>
 </div>
 
 <div class="mySlides fade">
-  <img src="../../images/Yasnaya-Polyana/autumn.jpg">
-  <div class="text">Осень в Ясной Поляне</div>
+  <img src="/images/Yasnaya-Polyana/autumn.jpg">
+  <div class="text" style="text-align:center">Осень в Ясной Поляне</div>
 </div>
 
-<a class="prev" onclick="plusSlides(-1)">❮</a>
-<a class="next" onclick="plusSlides(1)">❯</a>
+<a class="lb-prev" onclick="plusSlides(-1)">❮</a>
+<a class="lb-next" onclick="plusSlides(1)">❯</a>
 
 </div>
 <br>

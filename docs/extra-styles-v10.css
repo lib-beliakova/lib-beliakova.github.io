@@ -277,3 +277,18 @@ img.lb-hover-shadow {
   border: 1px solid var(--link-color);
   cursor: pointer;
 }
+
+/* blog customizations*/
+
+@media screen and (max-width: 76.2344em) {
+  .md-content--post {
+    flex-flow: column;
+  }
+  .md-post__title {
+    display: none;
+  }
+  .md-sidebar.md-sidebar--post .md-nav__list {
+    padding-bottom: 0;
+    padding-top: 0;
+  }
+}

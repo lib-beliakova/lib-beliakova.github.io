@@ -1,0 +1,65 @@
+<article class="md-post md-post--excerpt">
+    <header class="md-post__header">
+        {% if post.authors %}
+        <nav class="md-post__authors md-typeset">
+            {% for author in post.authors %}
+            <span class="md-author">
+                <img src="{{ author.avatar }}" alt="{{ author.name }}">
+            </span>
+            {% endfor %}
+        </nav>
+        {% endif %}
+        <div class="md-post__meta md-meta">
+            <ul class="md-meta__list">
+                <li class="md-meta__item">
+                    <time datetime="{{ post.config.date.created }}">
+                        {{- post.config.date.created | date -}}
+                    </time>
+                    {#- Collapse whitespace -#}
+                </li>
+                {% if post.categories %}
+                <li class="md-meta__item">
+                    {{ lang.t("blog.categories.in") }}
+                    {% for category in post.categories %}
+                    <a href="{{ category.url | url }}" class="md-meta__link">
+                        {{- category.title -}}
+                    </a>
+                    {%- if loop.revindex > 1 %}, {% endif -%}
+                    {% endfor -%}
+                </li>
+                {% endif %}
+                {% if post.config.readtime %}
+                {% set time = post.config.readtime %}
+                <li class="md-meta__item">
+                    {% if time == 1 %}
+                    {{ lang.t("readtime.one") }}
+                    {% elif time <= 4 %}                                            <!--custom part here-->
+                    {{ lang.t("readtime.two-three-four") | replace("#", time) }}    <!--custom part here-->
+                    {% else %}
+                    {{ lang.t("readtime.other") | replace("#", time) }}
+                    {% endif %}
+                </li>
+                {% endif %}
+            </ul>
+            {% if post.config.draft %}
+            <span class="md-draft">
+                {{ lang.t("blog.draft") }}
+            </span>
+            {% endif %}
+        </div>
+    </header>
+    <div class="md-post__content md-typeset">
+        {{ post.content }}
+        <nav class="md-post__action">
+            <a class="md-button" href="{{ post.url | url }}">
+                <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+                        <path
+                            d="M0 1.75A.75.75 0 0 1 .75 1h4.253c1.227 0 2.317.59 3 1.501A3.743 3.743 0 0 1 11.006 1h4.245a.75.75 0 0 1 .75.75v10.5a.75.75 0 0 1-.75.75h-4.507a2.25 2.25 0 0 0-1.591.659l-.622.621a.75.75 0 0 1-1.06 0l-.622-.621A2.25 2.25 0 0 0 5.258 13H.75a.75.75 0 0 1-.75-.75Zm7.251 10.324.004-5.073-.002-2.253A2.25 2.25 0 0 0 5.003 2.5H1.5v9h3.757a3.75 3.75 0 0 1 1.994.574ZM8.755 4.75l-.004 7.322a3.752 3.752 0 0 1 1.992-.572H14.5v-9h-3.495a2.25 2.25 0 0 0-2.25 2.25Z">
+                        </path>
+                    </svg>
+                </span>
+                {{ lang.t("blog.continue") }}
+            </a>
+        </nav>
+    </div>
+</article>

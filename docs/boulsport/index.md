@@ -87,4 +87,11 @@
 </figure></a>
 </div>
 
+<div class="menu-figures">
+<a href="../blog">
+<figure><img class="menu-img" width="128" height="128" src="../images/small/quote.jpg" />
+<figcaption>Блог</figcaption>
+</figure></a>
+</div>
+
 </div>

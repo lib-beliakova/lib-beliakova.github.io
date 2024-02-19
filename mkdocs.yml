@@ -7,14 +7,13 @@ nav:
   - index.md
   - achievements.md
   - news.md
+  - Блог:
+    - blog/index.md
   - Рассказы:
      - stories/index.md
-     - stories/upstairs-neighbor.md
      - stories/button.md
      - stories/whales-and-cats.md
-     - stories/turgenev-islands.md
      - stories/dinosaur.md
-     - stories/Yasnaya-Polyana.md
      - stories/first-in-orbit.md
      - stories/summer.md
      - stories/under-our-house.md
@@ -98,10 +97,21 @@ plugins:
         metadata: lang:ru-RU
         resource-path: /d/pandoc-resources
         reference-doc: reference.docx
+  - blog:
+      post_url_format: "{date}/{file}"
+      categories: false
+      blog_toc: true
+      archive: false
+      post_readtime_words_per_minute: 250
+  - redirects:
+      redirect_maps:
+        'stories/turgenev-islands.md': 'blog/posts/turgenev-islands.md'
+        'stories/upstairs-neighbor.md': 'blog/posts/upstairs-neighbor.md'
+        'stories/Yasnaya-Polyana.md': 'blog/posts/Yasnaya-Polyana.md'
 theme:
     name: material
-    language: ru
     custom_dir: overrides
+    language: ru-custom
     font: false
     palette:
     - media: "(prefers-color-scheme: light)"
@@ -119,9 +129,10 @@ theme:
       - announce.dismiss
       - navigation.top
       - navigation.footer
+#      - navigation.tabs
 #      - navigation.expand
 extra_css:
-    - extra-styles-v9.css
+    - extra-styles-v10.css
 extra:
     generator: false
     analytics:
