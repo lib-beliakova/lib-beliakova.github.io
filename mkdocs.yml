@@ -11,6 +11,7 @@ nav:
     - blog/index.md
   - Рассказы:
      - stories/index.md
+     - stories/stars.md
      - stories/button.md
      - stories/whales-and-cats.md
      - stories/dinosaur.md
