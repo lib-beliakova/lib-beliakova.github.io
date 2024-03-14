@@ -45,12 +45,12 @@
 
 <div class="mySlides fade">
   <img src="../../images/cats/pride.jpg">
-  <div class="text">"Проказы их все не получится счесть"</div>
+  <div class="text">"Проказы их нам не получится счесть"</div>
 </div>
 
 <div class="mySlides fade">
   <img src="../../images/cats/box.jpg">
-  <div class="text">"Коты все в коробках сидеть обожают"</div>
+  <div class="text">"В коробках коты посидеть обожают"</div>
 </div>
 
 <div class="mySlides fade">
@@ -70,7 +70,7 @@
 
 <div class="mySlides fade">
   <img src="../../images/cats/jumping.jpg">
-  <div class="text">"...лезут на шторы с огромной сноровкой"</div>
+  <div class="text">"Под утро задорно шуршат целлофаном"</div>
 </div>
 
 <div class="mySlides fade">
