@@ -292,3 +292,14 @@ img.lb-hover-shadow {
     padding-top: 0;
   }
 }
+
+/* cards in riddles */
+
+.grid.cards.riddles > ul > li > .info.riddle {
+  position: absolute;
+  bottom: 1em;
+}
+.grid.cards.riddles > ul > li {
+  position: relative;
+  padding-bottom: 5em;
+}
