@@ -18,3 +18,8 @@
 *20.01.2024 г., автору 12 лет.*
 
 ![Линии чернил](../images/ink-lines.jpg)
+
+
+*Я прочитала это стихотворение на Всероссийском творческом [слёте юных писателей и поэтов](../news.md#26032024) "Он победил и время, и пространство" в Пушкинских Горах, Псков.*
+
+<iframe src="https://vk.com/video_ext.php?oid=-219368889&id=456239029&hd=2" width="853" height="480" allow="autoplay; encrypted-media; fullscreen; picture-in-picture;" frameborder="0" allowfullscreen></iframe>
