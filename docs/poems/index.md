@@ -31,6 +31,8 @@
     ---
 
     * [Ослик](donkey.md)
+    * [Кот против рассады](cat-vs-plants.md)
+    * [Преданность](devotion.md)
     * [Тайна](secret.md)
     * [Братья-пузыри](bubbles.md)
     * [Фотоаппарат](photo-camera.md)
