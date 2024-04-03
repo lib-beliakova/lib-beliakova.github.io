@@ -361,7 +361,7 @@ function showSlides(n) {
 
 | Электронное издание                                         | Опубликованные работы                                |
 |-------------------------------------------------------------|------------------------------------------------------|
-| Журнал "Вверх тормашками"                                   | Рассказ [Подарок](stories/present-mashka.md).        |
+| Журнал "Вверх тормашками"                                   | Рассказ [Подарок](stories/present-mashka.md) и стихотворение [Первапрель](poems/april.md). |
 | Журнал "Ёж"                                                 | Рассказ [Первый на орбите](stories/first-in-orbit.md) и статья [Сосед сверху](blog/posts/upstairs-neighbor.md). |
 | Газета "Антошка"                                            | Стихотворения [На коньках](poems/skating.md), [Папа-ёж](poems/dad-hedgehog.md) и [Шаги зимы](poems/winter.md). |
 | Журнал "Детское чтение для сердца и разума"                 | Стихотворения [На коньках](poems/skating.md), [Осенний парад](poems/autumn-parade.md), [Заяц](poems/the-hare.md), [Папа-ёж](poems/dad-hedgehog.md) и [Шедевр](poems/masterpiece.md). |
