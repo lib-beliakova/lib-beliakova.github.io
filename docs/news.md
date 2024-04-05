@@ -23,6 +23,9 @@
 
 ![Участники слёта](images/mikhailovskoye.jpg)
 
+??? note "Сертификат участника слёта"
+    ![Сертификат](images/achievements/sertificate-mikhailovskoye.jpg)
+
 ## 14.03.2024: Мои публикации
 
 * [Публикации в печатных изданиях](achievements.md#print-media)
