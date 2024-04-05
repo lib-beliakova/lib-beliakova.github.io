@@ -139,7 +139,7 @@ theme:
 #      - navigation.tabs
 #      - navigation.expand
 extra_css:
-    - extra-styles-v11.css
+    - extra-styles-v12.css
 extra:
     generator: false
     analytics:

@@ -44,6 +44,9 @@ a.announce-link:hover {
 article > p {
   text-align: justify;
 }
+article > p.center {
+    text-align: center;
+}
 article > p:has(br) {
   text-align: left;
   text-indent: 1em hanging each-line;
@@ -228,7 +231,7 @@ figure:hover > .menu-img {
 .lb-prev:hover, .lb-next:hover {
   background-color: rgba(0,0,0,0.3);
   text-decoration: none !important;
-  color: #white !important;
+  color: white !important;
 }
 
 /* Fading animation */
