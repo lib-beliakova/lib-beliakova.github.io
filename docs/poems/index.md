@@ -31,6 +31,7 @@
     ---
 
     * [Ослик](donkey.md)
+    * [Тяжело быть маленьким](being-small.md)
     * [Кот против рассады](cat-vs-plants.md)
     * [Преданность](devotion.md)
     * [Тайна](secret.md)
