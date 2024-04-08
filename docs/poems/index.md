@@ -14,6 +14,7 @@
     * [Птичий обед](avian-dinner.md)
     * [Зимний сон](winter-dream.md)
     * [Восьмое марта](march-8.md)
+    * [Аллеи весны](spring-alleys.md)
     * [О весне](about-spring.md)
     * [После грозы](after-storm.md)
     * [В деревне](country.md)
