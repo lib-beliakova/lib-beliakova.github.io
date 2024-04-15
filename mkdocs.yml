@@ -46,13 +46,14 @@ nav:
       - poems/avian-dinner.md
       - poems/winter-dream.md
       - poems/march-8.md
+      - poems/spring-alleys.md
       - poems/about-spring.md
       - poems/after-storm.md
       - poems/country.md
       - poems/summer.md
+      - poems/autumn-is-back.md
       - poems/garden-of-autumn.md
       - poems/autumn-parade.md
-      - poems/it-was-autumn.md
       - poems/autumn.md
       - poems/sunset.md
       - poems/winter.md
@@ -116,6 +117,7 @@ plugins:
         'stories/turgenev-islands.md': 'blog/posts/turgenev-islands.md'
         'stories/upstairs-neighbor.md': 'blog/posts/upstairs-neighbor.md'
         'stories/Yasnaya-Polyana.md': 'blog/posts/Yasnaya-Polyana.md'
+        'poems/it-was-autumn.md': 'poems/autumn-is-back.md'
 theme:
     name: material
     custom_dir: overrides
