@@ -33,6 +33,10 @@
     ---
 
     * [Ослик](donkey.md)
+    * [Букет](bouquet.md)
+    * [Для меня!](for-me.md)
+    * [Корытце](trough.md)
+    * [Урок](lesson.md)
     * [Тяжело быть маленьким](being-small.md)
     * [Кот против рассады](cat-vs-plants.md)
     * [Преданность](devotion.md)
