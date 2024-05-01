@@ -130,85 +130,98 @@
 </div>
 <!--8-->
 <div class="lb-row">
-  <div class="lb-column-5">
-    <img src="../images/achievements/gratitude.jpg"
+  <div class="lb-column">
+    <img src="../images/achievements/diplom-red-sail-poetry.jpg"
          onclick="openModal();currentSlide(22)"
          class="lb-hover-shadow">
   </div>
-  <div class="lb-column-5">
-    <img src="../images/achievements/gramota-detlit-poetry.jpg"
+  <div class="lb-column">
+    <img src="../images/achievements/diplom-red-sail-prose.jpg"
          onclick="openModal();currentSlide(23)"
          class="lb-hover-shadow">
   </div>
-  <div class="lb-column-5">
-    <img src="../images/achievements/gramota-detlit-prose.jpg"
-         onclick="openModal();currentSlide(24)"
-         class="lb-hover-shadow">
-  </div>
-  <div class="lb-column-5">
-    <img src="../images/achievements/sertificate.jpg"
-         onclick="openModal();currentSlide(25)"
-         class="lb-hover-shadow">
-  </div>
-  <div class="lb-column-5">
+  <div class="lb-column">
     <img src="../images/achievements/diplom-delalandia.jpg"
-         onclick="openModal();currentSlide(26)"
+         onclick="openModal();currentSlide(24)"
          class="lb-hover-shadow">
   </div>
 </div>
 <!--9-->
 <div class="lb-row">
-  <div class="lb-column-5">
-    <img src="../images/achievements/diplom-strana.jpg"
+  <div class="lb-column-4">
+    <img src="../images/achievements/gratitude.jpg"
+         onclick="openModal();currentSlide(25)"
+         class="lb-hover-shadow">
+  </div>
+  <div class="lb-column-4">
+    <img src="../images/achievements/gramota-detlit-poetry.jpg"
+         onclick="openModal();currentSlide(26)"
+         class="lb-hover-shadow">
+  </div>
+  <div class="lb-column-4">
+    <img src="../images/achievements/gramota-detlit-prose.jpg"
          onclick="openModal();currentSlide(27)"
          class="lb-hover-shadow">
   </div>
-  <div class="lb-column-5">
-    <img src="../images/achievements/vsm-magistr.jpg"
+  <div class="lb-column-4">
+    <img src="../images/achievements/sertificate.jpg"
          onclick="openModal();currentSlide(28)"
-         class="lb-hover-shadow">
-  </div>
-    <div class="lb-column-5">
-    <img src="../images/achievements/gramota-detlit-spring.jpg"
-         onclick="openModal();currentSlide(29)"
-         class="lb-hover-shadow">
-  </div>
-  <div class="lb-column-5">
-    <img src="../images/achievements/vsm-diplom.jpg"
-         onclick="openModal();currentSlide(30)"
-         class="lb-hover-shadow">
-  </div>
-  <div class="lb-column-5">
-    <img src="../images/achievements/diplom-sestra-talanta.jpg"
-         onclick="openModal();currentSlide(31)"
          class="lb-hover-shadow">
   </div>
 </div>
 <!--10-->
 <div class="lb-row">
   <div class="lb-column-5">
-    <img src="../images/achievements/second-sertificate.jpg"
+    <img src="../images/achievements/diplom-strana.jpg"
+         onclick="openModal();currentSlide(29)"
+         class="lb-hover-shadow">
+  </div>
+  <div class="lb-column-5">
+    <img src="../images/achievements/vsm-magistr.jpg"
+         onclick="openModal();currentSlide(30)"
+         class="lb-hover-shadow">
+  </div>
+    <div class="lb-column-5">
+    <img src="../images/achievements/gramota-detlit-spring.jpg"
+         onclick="openModal();currentSlide(31)"
+         class="lb-hover-shadow">
+  </div>
+  <div class="lb-column-5">
+    <img src="../images/achievements/vsm-diplom.jpg"
          onclick="openModal();currentSlide(32)"
          class="lb-hover-shadow">
   </div>
   <div class="lb-column-5">
-    <img src="../images/achievements/third-sertificate.jpg"
+    <img src="../images/achievements/diplom-sestra-talanta.jpg"
          onclick="openModal();currentSlide(33)"
          class="lb-hover-shadow">
   </div>
+</div>
+<!--11-->
+<div class="lb-row">
   <div class="lb-column-5">
-    <img src="../images/achievements/sertificate-Literary-course-for-bloggers.jpg"
+    <img src="../images/achievements/second-sertificate.jpg"
          onclick="openModal();currentSlide(34)"
          class="lb-hover-shadow">
   </div>
   <div class="lb-column-5">
-    <img src="../images/achievements/sertificate-Skazkotvorenie.jpg"
+    <img src="../images/achievements/third-sertificate.jpg"
          onclick="openModal();currentSlide(35)"
          class="lb-hover-shadow">
   </div>
   <div class="lb-column-5">
-    <img src="../images/achievements/sertificate-We-are-beginners-poets.jpg"
+    <img src="../images/achievements/sertificate-Literary-course-for-bloggers.jpg"
          onclick="openModal();currentSlide(36)"
+         class="lb-hover-shadow">
+  </div>
+  <div class="lb-column-5">
+    <img src="../images/achievements/sertificate-Skazkotvorenie.jpg"
+         onclick="openModal();currentSlide(37)"
+         class="lb-hover-shadow">
+  </div>
+  <div class="lb-column-5">
+    <img src="../images/achievements/sertificate-We-are-beginners-poets.jpg"
+         onclick="openModal();currentSlide(38)"
          class="lb-hover-shadow">
   </div>
 </div>
@@ -303,61 +316,69 @@
     </div>
     <!--22-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/gratitude.jpg" style="width:100%">
+      <img src="../images/achievements/diplom-red-sail-poetry.jpg" style="width:100%">
     </div>
     <!--23-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/gramota-detlit-poetry.jpg" style="width:100%">
+      <img src="../images/achievements/diplom-red-sail-prose.jpg" style="width:100%">
     </div>
     <!--24-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/gramota-detlit-prose.jpg" style="width:100%">
+      <img src="../images/achievements/diplom-delalandia.jpg" style="width:100%">
     </div>
     <!--25-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/sertificate.jpg" style="width:100%">
+      <img src="../images/achievements/gratitude.jpg" style="width:100%">
     </div>
     <!--26-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/diplom-delalandia.jpg" style="width:100%">
+      <img src="../images/achievements/gramota-detlit-poetry.jpg" style="width:100%">
     </div>
     <!--27-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/diplom-strana.jpg" style="width:100%">
+      <img src="../images/achievements/gramota-detlit-prose.jpg" style="width:100%">
     </div>
     <!--28-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/vsm-magistr.jpg" style="width:100%">
+      <img src="../images/achievements/sertificate.jpg" style="width:100%">
     </div>
     <!--29-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/gramota-detlit-spring.jpg" style="width:100%">
+      <img src="../images/achievements/diplom-strana.jpg" style="width:100%">
     </div>
     <!--30-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/vsm-diplom.jpg" style="width:100%">
+      <img src="../images/achievements/vsm-magistr.jpg" style="width:100%">
     </div>
     <!--31-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/diplom-sestra-talanta.jpg" style="width:100%">
+      <img src="../images/achievements/gramota-detlit-spring.jpg" style="width:100%">
     </div>
     <!--32-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/second-sertificate.jpg" style="width:100%">
+      <img src="../images/achievements/vsm-diplom.jpg" style="width:100%">
     </div>
     <!--33-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/third-sertificate.jpg" style="width:100%">
+      <img src="../images/achievements/diplom-sestra-talanta.jpg" style="width:100%">
     </div>
     <!--34-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/sertificate-Literary-course-for-bloggers.jpg" style="width:100%">
+      <img src="../images/achievements/second-sertificate.jpg" style="width:100%">
     </div>
     <!--35-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/sertificate-Skazkotvorenie.jpg" style="width:100%">
+      <img src="../images/achievements/third-sertificate.jpg" style="width:100%">
     </div>
     <!--36-->
+    <div class="lb-mySlides">
+      <img src="../images/achievements/sertificate-Literary-course-for-bloggers.jpg" style="width:100%">
+    </div>
+    <!--37-->
+    <div class="lb-mySlides">
+      <img src="../images/achievements/sertificate-Skazkotvorenie.jpg" style="width:100%">
+    </div>
+    <!--38-->
     <div class="lb-mySlides">
       <img src="../images/achievements/sertificate-We-are-beginners-poets.jpg" style="width:100%">
     </div>
