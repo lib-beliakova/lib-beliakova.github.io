@@ -60,6 +60,7 @@
 
     ---
 
+    * [Счастье](happiness.md)
     * [Потеря](loss.md)
     * [Старый рояль](old-piano.md)
     * [Ромашка](chamomile.md)
