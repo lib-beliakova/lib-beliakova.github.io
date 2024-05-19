@@ -148,80 +148,93 @@
 </div>
 <!--9-->
 <div class="lb-row">
-  <div class="lb-column-4">
-    <img src="../images/achievements/gratitude.jpg"
+  <div class="lb-column">
+    <img src="../images/achievements/diplom-arctica.jpg"
          onclick="openModal();currentSlide(25)"
          class="lb-hover-shadow">
   </div>
-  <div class="lb-column-4">
-    <img src="../images/achievements/gramota-detlit-poetry.jpg"
+  <div class="lb-column">
+    <img src="../images/achievements/letter-arctica.jpg"
          onclick="openModal();currentSlide(26)"
-         class="lb-hover-shadow">
-  </div>
-  <div class="lb-column-4">
-    <img src="../images/achievements/gramota-detlit-prose.jpg"
-         onclick="openModal();currentSlide(27)"
-         class="lb-hover-shadow">
-  </div>
-  <div class="lb-column-4">
-    <img src="../images/achievements/sertificate.jpg"
-         onclick="openModal();currentSlide(28)"
          class="lb-hover-shadow">
   </div>
 </div>
 <!--10-->
 <div class="lb-row">
-  <div class="lb-column-5">
-    <img src="../images/achievements/diplom-strana.jpg"
+  <div class="lb-column-4">
+    <img src="../images/achievements/gratitude.jpg"
+         onclick="openModal();currentSlide(27)"
+         class="lb-hover-shadow">
+  </div>
+  <div class="lb-column-4">
+    <img src="../images/achievements/gramota-detlit-poetry.jpg"
+         onclick="openModal();currentSlide(28)"
+         class="lb-hover-shadow">
+  </div>
+  <div class="lb-column-4">
+    <img src="../images/achievements/gramota-detlit-prose.jpg"
          onclick="openModal();currentSlide(29)"
          class="lb-hover-shadow">
   </div>
-  <div class="lb-column-5">
-    <img src="../images/achievements/vsm-magistr.jpg"
+  <div class="lb-column-4">
+    <img src="../images/achievements/sertificate.jpg"
          onclick="openModal();currentSlide(30)"
-         class="lb-hover-shadow">
-  </div>
-    <div class="lb-column-5">
-    <img src="../images/achievements/gramota-detlit-spring.jpg"
-         onclick="openModal();currentSlide(31)"
-         class="lb-hover-shadow">
-  </div>
-  <div class="lb-column-5">
-    <img src="../images/achievements/vsm-diplom.jpg"
-         onclick="openModal();currentSlide(32)"
-         class="lb-hover-shadow">
-  </div>
-  <div class="lb-column-5">
-    <img src="../images/achievements/diplom-sestra-talanta.jpg"
-         onclick="openModal();currentSlide(33)"
          class="lb-hover-shadow">
   </div>
 </div>
 <!--11-->
 <div class="lb-row">
   <div class="lb-column-5">
-    <img src="../images/achievements/second-sertificate.jpg"
+    <img src="../images/achievements/diplom-strana.jpg"
+         onclick="openModal();currentSlide(31)"
+         class="lb-hover-shadow">
+  </div>
+  <div class="lb-column-5">
+    <img src="../images/achievements/vsm-magistr.jpg"
+         onclick="openModal();currentSlide(32)"
+         class="lb-hover-shadow">
+  </div>
+    <div class="lb-column-5">
+    <img src="../images/achievements/gramota-detlit-spring.jpg"
+         onclick="openModal();currentSlide(33)"
+         class="lb-hover-shadow">
+  </div>
+  <div class="lb-column-5">
+    <img src="../images/achievements/vsm-diplom.jpg"
          onclick="openModal();currentSlide(34)"
          class="lb-hover-shadow">
   </div>
   <div class="lb-column-5">
-    <img src="../images/achievements/third-sertificate.jpg"
+    <img src="../images/achievements/diplom-sestra-talanta.jpg"
          onclick="openModal();currentSlide(35)"
          class="lb-hover-shadow">
   </div>
+</div>
+<!--12-->
+<div class="lb-row">
   <div class="lb-column-5">
-    <img src="../images/achievements/sertificate-Literary-course-for-bloggers.jpg"
+    <img src="../images/achievements/second-sertificate.jpg"
          onclick="openModal();currentSlide(36)"
          class="lb-hover-shadow">
   </div>
   <div class="lb-column-5">
-    <img src="../images/achievements/sertificate-Skazkotvorenie.jpg"
+    <img src="../images/achievements/third-sertificate.jpg"
          onclick="openModal();currentSlide(37)"
          class="lb-hover-shadow">
   </div>
   <div class="lb-column-5">
-    <img src="../images/achievements/sertificate-We-are-beginners-poets.jpg"
+    <img src="../images/achievements/sertificate-Literary-course-for-bloggers.jpg"
          onclick="openModal();currentSlide(38)"
+         class="lb-hover-shadow">
+  </div>
+  <div class="lb-column-5">
+    <img src="../images/achievements/sertificate-Skazkotvorenie.jpg"
+         onclick="openModal();currentSlide(39)"
+         class="lb-hover-shadow">
+  </div>
+  <div class="lb-column-5">
+    <img src="../images/achievements/sertificate-We-are-beginners-poets.jpg"
+         onclick="openModal();currentSlide(40)"
          class="lb-hover-shadow">
   </div>
 </div>
@@ -328,57 +341,65 @@
     </div>
     <!--25-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/gratitude.jpg" style="width:100%">
+      <img src="../images/achievements/diplom-arctica.jpg" style="width:100%">
     </div>
     <!--26-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/gramota-detlit-poetry.jpg" style="width:100%">
+      <img src="../images/achievements/letter-arctica.jpg" style="width:100%">
     </div>
     <!--27-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/gramota-detlit-prose.jpg" style="width:100%">
+      <img src="../images/achievements/gratitude.jpg" style="width:100%">
     </div>
     <!--28-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/sertificate.jpg" style="width:100%">
+      <img src="../images/achievements/gramota-detlit-poetry.jpg" style="width:100%">
     </div>
     <!--29-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/diplom-strana.jpg" style="width:100%">
+      <img src="../images/achievements/gramota-detlit-prose.jpg" style="width:100%">
     </div>
     <!--30-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/vsm-magistr.jpg" style="width:100%">
+      <img src="../images/achievements/sertificate.jpg" style="width:100%">
     </div>
     <!--31-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/gramota-detlit-spring.jpg" style="width:100%">
+      <img src="../images/achievements/diplom-strana.jpg" style="width:100%">
     </div>
     <!--32-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/vsm-diplom.jpg" style="width:100%">
+      <img src="../images/achievements/vsm-magistr.jpg" style="width:100%">
     </div>
     <!--33-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/diplom-sestra-talanta.jpg" style="width:100%">
+      <img src="../images/achievements/gramota-detlit-spring.jpg" style="width:100%">
     </div>
     <!--34-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/second-sertificate.jpg" style="width:100%">
+      <img src="../images/achievements/vsm-diplom.jpg" style="width:100%">
     </div>
     <!--35-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/third-sertificate.jpg" style="width:100%">
+      <img src="../images/achievements/diplom-sestra-talanta.jpg" style="width:100%">
     </div>
     <!--36-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/sertificate-Literary-course-for-bloggers.jpg" style="width:100%">
+      <img src="../images/achievements/second-sertificate.jpg" style="width:100%">
     </div>
     <!--37-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/sertificate-Skazkotvorenie.jpg" style="width:100%">
+      <img src="../images/achievements/third-sertificate.jpg" style="width:100%">
     </div>
     <!--38-->
+    <div class="lb-mySlides">
+      <img src="../images/achievements/sertificate-Literary-course-for-bloggers.jpg" style="width:100%">
+    </div>
+    <!--39-->
+    <div class="lb-mySlides">
+      <img src="../images/achievements/sertificate-Skazkotvorenie.jpg" style="width:100%">
+    </div>
+    <!--40-->
     <div class="lb-mySlides">
       <img src="../images/achievements/sertificate-We-are-beginners-poets.jpg" style="width:100%">
     </div>
@@ -426,6 +447,7 @@ function showSlides(n) {
 
 | Печатное издание                                            | Опубликованные работы                                |
 |-------------------------------------------------------------|------------------------------------------------------|
+| Альманах "На крыльях Пегаса", 2024 (Тула)                   | Стихотворение [Гимн российского боулспорта](boulsport/anthem.md)                                             |
 | Журнал "Дружана" № 1, 2024 (Саратов)                        | Стихотворение [Птичий обед](poems/avian-dinner.md)   |
 | Журнал "Золотой ключик" № 2 (758), 2024 (Липецк)            | [Загадки](riddles.md)                                |
 | Журнал "Новый Орел+XXI век" № 46, 2024 (Орел)               | Рассказ [Лето, в которое случилось это (Котёнок)](stories/summer.md) |
@@ -442,6 +464,6 @@ function showSlides(n) {
 |-------------------------------------------------------------|------------------------------------------------------|
 | Журнал "Вверх тормашками"                                   | Рассказ [Подарок](stories/present-mashka.md); стихотворения [Первапрель](poems/april.md) и [О весне](poems/about-spring.md). |
 | Журнал "Ёж"                                                 | Рассказы [Первый на орбите](stories/first-in-orbit.md) и [Птенец](stories/young-bird.md); статьи [Сосед сверху](blog/posts/upstairs-neighbor.md) и [Яблочки с дуба](blog/posts/oak-apples.md). |
-| Газета "Антошка"                                            | Стихотворения [На коньках](poems/skating.md), [Папа-ёж](poems/dad-hedgehog.md) и [Шаги зимы](poems/winter.md). |
+| Газета "Антошка"                                            | Стихотворения [Тайна](poems/secret.md), [На коньках](poems/skating.md), [Папа-ёж](poems/dad-hedgehog.md) и [Шаги зимы](poems/winter.md). |
 | Журнал "Детское чтение для сердца и разума"                 | Стихотворения [На коньках](poems/skating.md), [Осенний парад](poems/autumn-parade.md), [Заяц](poems/the-hare.md), [Папа-ёж](poems/dad-hedgehog.md) и [Шедевр](poems/masterpiece.md). |
 | Журнал "МАвочки и ДЕльчики"                                 | Рассказы [Первый на орбите](stories/first-in-orbit.md), [Ласточкин папа](stories/swallow-dad.md), [Лето, в которое случилось это](stories/summer.md), [Жил да был Снеговик...](stories/snowman.md), [Подготовка к празднику](stories/preparation-for-festival.md), [Как Петя заварил кашу](stories/petya.md), [Подарок](stories/present-mashka.md), [Однажды под нашим домом](stories/under-our-house.md), [Подарок осени](stories/autumn-gift.md) и [Сосновые игрушки](stories/sosna.md); cказка [Радужная лама](tales/rainbow-lama.md); стихотворение [Помогаю](poems/help.md). |
