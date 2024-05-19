@@ -14,13 +14,15 @@
     * [Птичий обед](avian-dinner.md)
     * [Зимний сон](winter-dream.md)
     * [Восьмое марта](march-8.md)
+    * [Аллеи весны](spring-alleys.md)
+    * [Город и небо](town-and-sky.md)
     * [О весне](about-spring.md)
     * [После грозы](after-storm.md)
     * [В деревне](country.md)
     * [Лето](summer.md)
+    * [Вернулась осень...](autumn-is-back.md)
     * [Скверик осени](garden-of-autumn.md)
     * [Осенний парад](autumn-parade.md)
-    * [Стояла осень...](it-was-autumn.md)
     * [Дыхание ноября](autumn.md)
     * [На закате](sunset.md)
     * [Шаги зимы](winter.md)
@@ -31,6 +33,11 @@
     ---
 
     * [Ослик](donkey.md)
+    * [Букет](bouquet.md)
+    * [Для меня!](for-me.md)
+    * [Корытце](trough.md)
+    * [Урок](lesson.md)
+    * [Тяжело быть маленьким](being-small.md)
     * [Кот против рассады](cat-vs-plants.md)
     * [Преданность](devotion.md)
     * [Тайна](secret.md)
@@ -53,6 +60,7 @@
 
     ---
 
+    * [Счастье](happiness.md)
     * [Потеря](loss.md)
     * [Старый рояль](old-piano.md)
     * [Ромашка](chamomile.md)

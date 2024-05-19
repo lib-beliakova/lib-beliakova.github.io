@@ -13,6 +13,7 @@ nav:
      - stories/index.md
      - stories/nothern-summer.md
      - stories/stars.md
+     - stories/young-bird.md
      - stories/button.md
      - stories/whales-and-cats.md
      - stories/dinosaur.md
@@ -47,19 +48,26 @@ nav:
       - poems/avian-dinner.md
       - poems/winter-dream.md
       - poems/march-8.md
+      - poems/spring-alleys.md
+      - poems/town-and-sky.md
       - poems/about-spring.md
       - poems/after-storm.md
       - poems/country.md
       - poems/summer.md
+      - poems/autumn-is-back.md
       - poems/garden-of-autumn.md
       - poems/autumn-parade.md
-      - poems/it-was-autumn.md
       - poems/autumn.md
       - poems/sunset.md
       - poems/winter.md
       - poems/skating.md
     - Для детей:
       - poems/donkey.md
+      - poems/bouquet.md
+      - poems/for-me.md
+      - poems/trough.md
+      - poems/lesson.md
+      - poems/being-small.md
       - poems/cat-vs-plants.md
       - poems/devotion.md
       - poems/secret.md
@@ -78,6 +86,7 @@ nav:
       - poems/the-crow.md
       - poems/help.md
     - Моменты жизни:
+      - poems/happiness.md
       - poems/loss.md
       - poems/old-piano.md
       - poems/chamomile.md
@@ -116,6 +125,7 @@ plugins:
         'stories/turgenev-islands.md': 'blog/posts/turgenev-islands.md'
         'stories/upstairs-neighbor.md': 'blog/posts/upstairs-neighbor.md'
         'stories/Yasnaya-Polyana.md': 'blog/posts/Yasnaya-Polyana.md'
+        'poems/it-was-autumn.md': 'poems/autumn-is-back.md'
 theme:
     name: material
     custom_dir: overrides
