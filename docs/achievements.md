@@ -481,7 +481,7 @@ function showSlides(n) {
 | Электронное издание                                         | Опубликованные работы                                |
 |-------------------------------------------------------------|------------------------------------------------------|
 | Сборник "Международный конкурс стихотворений собственного сочинения, 2024 год" | Стихотворение [Старый рояль](poems/old-piano.md). |
-| Журнал "Вверх тормашками"                                   | Рассказ [Подарок](stories/present-mashka.md); стихотворения [Тяжело быть маленьким](poems/being-small.md), [Первапрель](poems/april.md) и [О весне](poems/about-spring.md). |
+| Журнал "Вверх тормашками"                                   | Рассказ [Подарок](stories/present-mashka.md); стихотворения [Для меня](poems/for-me.md), [Тяжело быть маленьким](poems/being-small.md), [Первапрель](poems/april.md) и [О весне](poems/about-spring.md). |
 | Журнал "Ёж"                                                 | Рассказы [Первый на орбите](stories/first-in-orbit.md) и [Птенец](stories/young-bird.md); статьи [Сосед сверху](blog/posts/upstairs-neighbor.md) и [Яблочки с дуба](blog/posts/oak-apples.md). |
 | Газета "Антошка"                                            | Стихотворения [Тайна](poems/secret.md), [На коньках](poems/skating.md), [Папа-ёж](poems/dad-hedgehog.md) и [Шаги зимы](poems/winter.md). |
 | Журнал "Детское чтение для сердца и разума"                 | Стихотворения [На коньках](poems/skating.md), [Осенний парад](poems/autumn-parade.md), [Заяц](poems/the-hare.md), [Папа-ёж](poems/dad-hedgehog.md) и [Шедевр](poems/masterpiece.md). |
