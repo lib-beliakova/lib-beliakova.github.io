@@ -62,6 +62,7 @@
 
     ---
 
+    * [Роль дракона](dragon-role.md)
     * [Прогнозистам](weather-forecasters.md)
     * [Счастье](happiness.md)
     * [Потеря](loss.md)
