@@ -22,6 +22,7 @@
     * [В Поленово](polenovo.md)
     * [В деревне](country.md)
     * [Лето](summer.md)
+    * [Следы лета](summer-traces.md)
     * [Вернулась осень...](autumn-is-back.md)
     * [Скверик осени](garden-of-autumn.md)
     * [Осенний парад](autumn-parade.md)
