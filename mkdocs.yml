@@ -155,7 +155,7 @@ theme:
 #      - navigation.tabs
 #      - navigation.expand
 extra_css:
-    - extra-styles-v12.css
+    - extra-styles-v13.css
 extra:
     generator: false
     analytics:
