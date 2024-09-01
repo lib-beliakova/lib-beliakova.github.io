@@ -126,6 +126,7 @@ plugins:
       blog_toc: true
       archive: false
       post_readtime_words_per_minute: 250
+      pagination: false
   - redirects:
       redirect_maps:
         'stories/turgenev-islands.md': 'blog/posts/turgenev-islands.md'
