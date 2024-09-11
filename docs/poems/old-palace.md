@@ -39,4 +39,4 @@
 
 *30.07.2023 г., автору 11 лет.*
 
-![Старый дворец](../images/old-palace.jpg)
+<iframe src="https://vk.com/video_ext.php?oid=-219368889&id=456239030&hd=2&autoplay=1" width="853" height="480" allow="encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>
