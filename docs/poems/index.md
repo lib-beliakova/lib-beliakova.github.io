@@ -36,6 +36,13 @@
     ---
 
     * [Ослик](donkey.md)
+    * [Планы на будущее](plans.md)
+    * [Африканский Геракл](african-hercules.md)
+    * [Дружба](friendship.md)
+    * [Ледниковый период](ice-age.md)
+    * [Разговор](talk.md)
+    * [Чей нос лучше?](best-nose.md)
+    * [Золотые иголки](golden-needles.md)
     * [Букет](bouquet.md)
     * [Для меня!](for-me.md)
     * [Корытце](trough.md)
@@ -63,8 +70,10 @@
 
     ---
 
+    * [Осенний свет](autumn-light.md)
     * [Роль дракона](dragon-role.md)
     * [Прогнозистам](weather-forecasters.md)
+    * [Стихомысли](poethoughts.md)
     * [Счастье](happiness.md)
     * [Потеря](loss.md)
     * [Старый рояль](old-piano.md)
