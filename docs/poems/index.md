@@ -70,6 +70,7 @@
 
     ---
 
+    * [Городу Орёл](orel-city.md)
     * [Осенний свет](autumn-light.md)
     * [Роль дракона](dragon-role.md)
     * [Прогнозистам](weather-forecasters.md)
