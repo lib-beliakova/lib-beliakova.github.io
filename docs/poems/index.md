@@ -37,6 +37,7 @@
 
     * [Ослик](donkey.md)
     * [Планы на будущее](plans.md)
+    * [Поиски лета](summer-search.md)
     * [Африканский Геракл](african-hercules.md)
     * [Дружба](friendship.md)
     * [Ледниковый период](ice-age.md)
