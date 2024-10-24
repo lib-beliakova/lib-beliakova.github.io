@@ -115,6 +115,8 @@ nav:
       - poems/poets.md
       - poems/coast-of-poetry.md
       - poems/before-sunrise.md
+  - Переводы:
+     - translations/who.md
   - Загадки: riddles.md
   - Боулспорт:
      - boulsport/index.md

@@ -3,6 +3,9 @@
 !!! info "Новости в Telegram и VK"
     Чтобы не пропускать новости, подпишитесь на [канал сайта в Telegram :fontawesome-brands-telegram:](https://t.me/lib_beliakova) или [страницу ВКонтакте :fontawesome-brands-vk:](https://vk.com/lib_beliakova).
 
+## 23.10.2024: Перевод песни Park Jimin (Пак Чимин) -- Who
+
+Решила попробовать свои силы в роли переводчика с английского. Результатом стал мой первый эквиритмический перевод -- [Кого? Перевод песни Park Jimin (Пак Чимин) -- Who](translations/who.md).
 
 ## 17.10.2024: Стихотворение "Поиски лета"
 
