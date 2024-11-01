@@ -3,7 +3,7 @@
 !!! info "Новости в Telegram и VK"
     Чтобы не пропускать новости, подпишитесь на [канал сайта в Telegram :fontawesome-brands-telegram:](https://t.me/lib_beliakova) или [страницу ВКонтакте :fontawesome-brands-vk:](https://vk.com/lib_beliakova).
 
-## 11.01.2024: Перевод песни BTS -- Dynamite
+## 01.11.2024: Перевод песни BTS -- Dynamite
 
 Продолжаю "работать" переводчиком. Мой второй эквиритмический перевод -- [Динамит. Перевод песни BTS (БТС) -- Dynamite](translations/dynamite.md).
 

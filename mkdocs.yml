@@ -116,6 +116,7 @@ nav:
       - poems/coast-of-poetry.md
       - poems/before-sunrise.md
   - Переводы:
+     - translations/index.md
      - translations/who.md
      - translations/dynamite.md
   - Загадки: riddles.md
