@@ -36,6 +36,7 @@
     ---
 
     * [Ослик](donkey.md)
+    * [Три созвездия](three-constellations.md)
     * [Планы на будущее](plans.md)
     * [Поиски лета](summer-search.md)
     * [Африканский Геракл](african-hercules.md)
