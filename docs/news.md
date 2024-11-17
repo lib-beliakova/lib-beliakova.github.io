@@ -3,6 +3,16 @@
 !!! info "Новости в Telegram и VK"
     Чтобы не пропускать новости, подпишитесь на [канал сайта в Telegram :fontawesome-brands-telegram:](https://t.me/lib_beliakova) или [страницу ВКонтакте :fontawesome-brands-vk:](https://vk.com/lib_beliakova).
 
+## 17.11.2024: Новые стихотворения
+
+Новые стихи для детей:
+
+* [Пример для всех!](poems/example.md)
+* [Совет](poems/advice.md)
+* [Детские книги](poems/books-for-kids.md)
+* [Со мной теплей](poems/warmer-with-me.md)
+* [Три созвездия](poems/three-constellations.md)
+
 ## 01.11.2024: Перевод песни BTS -- Dynamite
 
 Продолжаю "работать" переводчиком. Мой второй эквиритмический перевод -- [Динамит. Перевод песни BTS (БТС) -- Dynamite](translations/dynamite.md).

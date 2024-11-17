@@ -36,6 +36,10 @@
     ---
 
     * [Ослик](donkey.md)
+    * [Пример для всех!](example.md)
+    * [Совет](advice.md)
+    * [Детские книги](books-for-kids.md)
+    * [Со мной теплей](warmer-with-me.md)
     * [Три созвездия](three-constellations.md)
     * [Планы на будущее](plans.md)
     * [Поиски лета](summer-search.md)
