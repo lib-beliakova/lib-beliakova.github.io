@@ -3,6 +3,10 @@
 !!! info "Новости в Telegram и VK"
     Чтобы не пропускать новости, подпишитесь на [канал сайта в Telegram :fontawesome-brands-telegram:](https://t.me/lib_beliakova) или [страницу ВКонтакте :fontawesome-brands-vk:](https://vk.com/lib_beliakova).
 
+## 20.11.2024: Сон учителя
+
+Что снится учителям? Не знаю, скажу честно. Но попробовала представить в стихотворении [Сон учителя](poems/teacher-dream.md).
+
 ## 17.11.2024: Новые стихотворения
 
 Новые стихи для детей:

@@ -76,6 +76,7 @@
 
     ---
 
+    * [Сон учителя](teacher-dream.md)
     * [Если спросят](if-they-ask.md)
     * [Городу Орёл](orel-city.md)
     * [Осенний свет](autumn-light.md)
