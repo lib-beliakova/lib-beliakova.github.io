@@ -302,29 +302,42 @@
 </div>
 <!--17-->
 <div class="lb-row">
-  <div class="lb-column-5">
+  <div class="lb-column-4">
     <img src="../images/achievements/second-sertificate.jpg"
          onclick="openModal();currentSlide(51)"
          class="lb-hover-shadow" />
   </div>
-  <div class="lb-column-5">
+  <div class="lb-column-4">
     <img src="../images/achievements/third-sertificate.jpg"
          onclick="openModal();currentSlide(52)"
          class="lb-hover-shadow" />
   </div>
-  <div class="lb-column-5">
+  <div class="lb-column-4">
     <img src="../images/achievements/sertificate-Literary-course-for-bloggers.jpg"
          onclick="openModal();currentSlide(53)"
          class="lb-hover-shadow" />
   </div>
-  <div class="lb-column-5">
+  <div class="lb-column-4">
     <img src="../images/achievements/sertificate-Skazkotvorenie.jpg"
          onclick="openModal();currentSlide(54)"
          class="lb-hover-shadow" />
   </div>
-  <div class="lb-column-5">
+</div>
+<!--18-->
+<div class="lb-row">
+  <div class="lb-column">
     <img src="../images/achievements/sertificate-We-are-beginners-poets.jpg"
          onclick="openModal();currentSlide(55)"
+         class="lb-hover-shadow" />
+  </div>
+  <div class="lb-column">
+    <img src="../images/achievements/cert-space-tales.jpg"
+         onclick="openModal();currentSlide(56)"
+         class="lb-hover-shadow" />
+  </div>
+  <div class="lb-column">
+    <img src="../images/achievements/cert-space-writer.jpg"
+         onclick="openModal();currentSlide(57)"
          class="lb-hover-shadow" />
   </div>
 </div>
@@ -552,6 +565,14 @@
     <!--55-->
     <div class="lb-mySlides">
       <img src="../images/achievements/sertificate-We-are-beginners-poets.jpg" style="width:100%" />
+    </div>
+    <!--56-->
+    <div class="lb-mySlides">
+      <img src="../images/achievements/cert-space-tales.jpg" style="width:100%" />
+    </div>
+    <!--57-->
+    <div class="lb-mySlides">
+      <img src="../images/achievements/cert-space-writer.jpg" style="width:100%" />
     </div>
     <!-- Next/previous controls -->
     <a class="lb-prev" onclick="plusSlides(-1)">&#10094;</a>
