@@ -3,6 +3,23 @@
 !!! info "Новости в Telegram и VK"
     Чтобы не пропускать новости, подпишитесь на [канал сайта в Telegram :fontawesome-brands-telegram:](https://t.me/lib_beliakova) или [страницу ВКонтакте :fontawesome-brands-vk:](https://vk.com/lib_beliakova).
 
+## 04.12.2024 Заметка о финансовой грамотности
+
+Моя заметка о финансовой грамотности напечатана в детском журнале "Золотой ключик" №10 (766), 2024 (Липецк).
+
+<div class="lb-row">
+  <div class="lb-column-2">
+    <a href="../images/news/golden-key-page-26.jpg">
+      <img src="../images/news/golden-key-page-26.jpg" class="lb-hover-shadow" />
+    </a>
+  </div>
+  <div class="lb-column-2">
+    <a href="../images/news/golden-key-page-27.jpg">
+      <img src="../images/news/golden-key-page-27.jpg" class="lb-hover-shadow" />
+    </a>
+  </div>
+</div>
+
 ## 20.11.2024: Сон учителя
 
 Что снится учителям? Не знаю, скажу честно. Но попробовала представить в стихотворении [Сон учителя](poems/teacher-dream.md).
