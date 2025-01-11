@@ -12,6 +12,7 @@
     * [Зимняя прогулка](winter-walk.md)
     * [Тихо трепещет заснеженный лес...](forest-is-quivering.md)
     * [Птичий обед](avian-dinner.md)
+    * [Январские фиалки](violets.md)
     * [Зимний сон](winter-dream.md)
     * [Восьмое марта](march-8.md)
     * [Аллеи весны](spring-alleys.md)
