@@ -348,19 +348,24 @@
 </div>
 <!--19-->
 <div class="lb-row">
-  <div class="lb-column">
+  <div class="lb-column-4">
     <img src="../images/achievements/cert-space-tales.jpg"
          onclick="openModal();currentSlide(59)"
          class="lb-hover-shadow" />
   </div>
-  <div class="lb-column">
+  <div class="lb-column-4">
     <img src="../images/achievements/cert-space-writer.jpg"
          onclick="openModal();currentSlide(60)"
          class="lb-hover-shadow" />
   </div>
-  <div class="lb-column">
+  <div class="lb-column-4">
     <img src="../images/achievements/cert-space-poet.jpg"
          onclick="openModal();currentSlide(61)"
+         class="lb-hover-shadow" />
+  </div>
+  <div class="lb-column-4">
+    <img src="../images/achievements/artek-cert.jpg"
+         onclick="openModal();currentSlide(62)"
          class="lb-hover-shadow" />
   </div>
 </div>
@@ -612,6 +617,10 @@
     <!--61-->
     <div class="lb-mySlides">
       <img src="../images/achievements/cert-space-poet.jpg" style="width:100%" />
+    </div>
+    <!--62-->
+    <div class="lb-mySlides">
+      <img src="../images/achievements/artek-cert.jpg" style="width:100%" />
     </div>
     <!-- Next/previous controls -->
     <a class="lb-prev" onclick="plusSlides(-1)">&#10094;</a>
