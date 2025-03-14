@@ -302,19 +302,24 @@
 </div>
 <!--17-->
 <div class="lb-row">
-  <div class="lb-column">
+  <div class="lb-column-4">
     <img src="../images/achievements/diplom-delalandia.jpg"
          onclick="openModal();currentSlide(51)"
          class="lb-hover-shadow" />
   </div>
-  <div class="lb-column">
+  <div class="lb-column-4">
     <img src="../images/achievements/vsm-diplom.jpg"
          onclick="openModal();currentSlide(52)"
          class="lb-hover-shadow" />
   </div>
-  <div class="lb-column">
+  <div class="lb-column-4">
     <img src="../images/achievements/diplom-sestra-talanta.jpg"
          onclick="openModal();currentSlide(53)"
+         class="lb-hover-shadow" />
+  </div>
+  <div class="lb-column-4">
+    <img src="../images/achievements/diplom-cherdobryak2.jpg"
+         onclick="openModal();currentSlide(54)"
          class="lb-hover-shadow" />
   </div>
 </div>
@@ -322,17 +327,17 @@
 <div class="lb-row">
   <div class="lb-column">
     <img src="../images/achievements/sertificate-needle.jpg"
-         onclick="openModal();currentSlide(54)"
-         class="lb-hover-shadow" />
-  </div>
-  <div class="lb-column">
-    <img src="../images/achievements/gramota-pushkin.jpg"
          onclick="openModal();currentSlide(55)"
          class="lb-hover-shadow" />
   </div>
   <div class="lb-column">
-    <img src="../images/achievements/diplom-stikhi-2024.jpg"
+    <img src="../images/achievements/gramota-pushkin.jpg"
          onclick="openModal();currentSlide(56)"
+         class="lb-hover-shadow" />
+  </div>
+  <div class="lb-column">
+    <img src="../images/achievements/diplom-stikhi-2024.jpg"
+         onclick="openModal();currentSlide(57)"
          class="lb-hover-shadow" />
   </div>
 </div>
@@ -340,27 +345,27 @@
 <div class="lb-row">
   <div class="lb-column-5">
     <img src="../images/achievements/second-sertificate.jpg"
-         onclick="openModal();currentSlide(57)"
-         class="lb-hover-shadow" />
-  </div>
-  <div class="lb-column-5">
-    <img src="../images/achievements/third-sertificate.jpg"
          onclick="openModal();currentSlide(58)"
          class="lb-hover-shadow" />
   </div>
   <div class="lb-column-5">
-    <img src="../images/achievements/sertificate-Literary-course-for-bloggers.jpg"
+    <img src="../images/achievements/third-sertificate.jpg"
          onclick="openModal();currentSlide(59)"
          class="lb-hover-shadow" />
   </div>
   <div class="lb-column-5">
-    <img src="../images/achievements/sertificate-Skazkotvorenie.jpg"
+    <img src="../images/achievements/sertificate-Literary-course-for-bloggers.jpg"
          onclick="openModal();currentSlide(60)"
          class="lb-hover-shadow" />
   </div>
   <div class="lb-column-5">
-    <img src="../images/achievements/sertificate-We-are-beginners-poets.jpg"
+    <img src="../images/achievements/sertificate-Skazkotvorenie.jpg"
          onclick="openModal();currentSlide(61)"
+         class="lb-hover-shadow" />
+  </div>
+  <div class="lb-column-5">
+    <img src="../images/achievements/sertificate-We-are-beginners-poets.jpg"
+         onclick="openModal();currentSlide(62)"
          class="lb-hover-shadow" />
   </div>
 </div>
@@ -368,22 +373,22 @@
 <div class="lb-row">
   <div class="lb-column-4">
     <img src="../images/achievements/cert-space-tales.jpg"
-         onclick="openModal();currentSlide(62)"
-         class="lb-hover-shadow" />
-  </div>
-  <div class="lb-column-4">
-    <img src="../images/achievements/cert-space-writer.jpg"
          onclick="openModal();currentSlide(63)"
          class="lb-hover-shadow" />
   </div>
   <div class="lb-column-4">
-    <img src="../images/achievements/cert-space-poet.jpg"
+    <img src="../images/achievements/cert-space-writer.jpg"
          onclick="openModal();currentSlide(64)"
          class="lb-hover-shadow" />
   </div>
   <div class="lb-column-4">
-    <img src="../images/achievements/artek-cert.jpg"
+    <img src="../images/achievements/cert-space-poet.jpg"
          onclick="openModal();currentSlide(65)"
+         class="lb-hover-shadow" />
+  </div>
+  <div class="lb-column-4">
+    <img src="../images/achievements/artek-cert.jpg"
+         onclick="openModal();currentSlide(66)"
          class="lb-hover-shadow" />
   </div>
 </div>
@@ -606,49 +611,53 @@
     </div>
     <!--54-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/sertificate-needle.jpg" style="width:100%" />
+      <img src="../images/achievements/diplom-cherdobryak2.jpg" style="width:100%" />
     </div>
     <!--55-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/gramota-pushkin.jpg" style="width:100%" />
+      <img src="../images/achievements/sertificate-needle.jpg" style="width:100%" />
     </div>
     <!--56-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/diplom-stikhi-2024.jpg" style="width:100%" />
+      <img src="../images/achievements/gramota-pushkin.jpg" style="width:100%" />
     </div>
     <!--57-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/second-sertificate.jpg" style="width:100%" />
+      <img src="../images/achievements/diplom-stikhi-2024.jpg" style="width:100%" />
     </div>
     <!--58-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/third-sertificate.jpg" style="width:100%" />
+      <img src="../images/achievements/second-sertificate.jpg" style="width:100%" />
     </div>
     <!--59-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/sertificate-Literary-course-for-bloggers.jpg" style="width:100%" />
+      <img src="../images/achievements/third-sertificate.jpg" style="width:100%" />
     </div>
     <!--60-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/sertificate-Skazkotvorenie.jpg" style="width:100%" />
+      <img src="../images/achievements/sertificate-Literary-course-for-bloggers.jpg" style="width:100%" />
     </div>
     <!--61-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/sertificate-We-are-beginners-poets.jpg" style="width:100%" />
+      <img src="../images/achievements/sertificate-Skazkotvorenie.jpg" style="width:100%" />
     </div>
     <!--62-->
     <div class="lb-mySlides">
-      <img src="../images/achievements/cert-space-tales.jpg" style="width:100%" />
+      <img src="../images/achievements/sertificate-We-are-beginners-poets.jpg" style="width:100%" />
     </div>
     <!--63-->
+    <div class="lb-mySlides">
+      <img src="../images/achievements/cert-space-tales.jpg" style="width:100%" />
+    </div>
+    <!--64-->
     <div class="lb-mySlides">
       <img src="../images/achievements/cert-space-writer.jpg" style="width:100%" />
     </div>
-    <!--63-->
+    <!--65-->
     <div class="lb-mySlides">
       <img src="../images/achievements/cert-space-poet.jpg" style="width:100%" />
     </div>
-    <!--64-->
+    <!--66-->
     <div class="lb-mySlides">
       <img src="../images/achievements/artek-cert.jpg" style="width:100%" />
     </div>
