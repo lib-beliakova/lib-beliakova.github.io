@@ -77,6 +77,7 @@
 
     ---
 
+    * [Другие пути](other-ways.md)
     * [Один такой](the-one.md)
     * [Сон учителя](teacher-dream.md)
     * [Если спросят](if-they-ask.md)
