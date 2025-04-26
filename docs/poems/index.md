@@ -18,6 +18,7 @@
     * [Аллеи весны](spring-alleys.md)
     * [Город и небо](town-and-sky.md)
     * [О весне](about-spring.md)
+    * [Вечерняя весна](evening-spring.md)
     * [После грозы](after-storm.md)
     * [Летние мечты](summer-dreams.md)
     * [В Поленово](polenovo.md)
