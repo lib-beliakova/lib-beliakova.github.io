@@ -22,4 +22,6 @@
 
 *17.03.2023 г., автору 11 лет.*
 
+*Стихотворение напечатано в журнале "Путеводная звезда" №6 (349), 2025 (Киров).*
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qk4pw-Kf6Do" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
