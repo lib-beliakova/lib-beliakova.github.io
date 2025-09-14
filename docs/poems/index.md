@@ -38,6 +38,7 @@
     ---
 
     * [Ослик](donkey.md)
+    * [Грибочек](tiny-mushroom.md)
     * [Пример для всех!](example.md)
     * [Совет](advice.md)
     * [Детские книги](books-for-kids.md)
