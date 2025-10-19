@@ -3,6 +3,10 @@
 !!! info "Новости в Telegram и VK"
     Чтобы не пропускать новости, подпишитесь на [канал сайта в Telegram :fontawesome-brands-telegram:](https://t.me/lib_beliakova) или [страницу ВКонтакте :fontawesome-brands-vk:](https://vk.com/lib_beliakova).
 
+## 19.10.2025: Стихотворение "Ящики стола"
+
+[Ящики стола](poems/desk-drawer.md) могут скрывать много интересного и незаслуженно забытого. Что же в них?
+
 ## 14.09.2025: Стихотворение "Грибочек"
 
 Новое детское стихотворение -- [Грибочек](poems/tiny-mushroom.md).

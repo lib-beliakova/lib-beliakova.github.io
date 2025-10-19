@@ -100,6 +100,7 @@
     ---
 
     * [Автопортрет](self-portrait.md)
+    * [Ящики стола](desk-drawer.md)
     * [Линии чернил](ink-lines.md)
     * [У поэта так бывает...](poets.md)
     * [Берег поэзии](coast-of-poetry.md)
