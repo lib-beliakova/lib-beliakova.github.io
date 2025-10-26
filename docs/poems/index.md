@@ -38,6 +38,7 @@
     ---
 
     * [Ослик](donkey.md)
+    * [Помнишь?](remember.md)
     * [Грибочек](tiny-mushroom.md)
     * [Пример для всех!](example.md)
     * [Совет](advice.md)
