@@ -21,6 +21,7 @@
     * [Вечерняя весна](evening-spring.md)
     * [После грозы](after-storm.md)
     * [Летние мечты](summer-dreams.md)
+    * [Привет](hello.md)
     * [В Поленово](polenovo.md)
     * [В деревне](country.md)
     * [Лето](summer.md)
