@@ -245,7 +245,7 @@ figure:hover > .menu-img {
   to {opacity: 1}
 }
 
-.lb-row > .lb-column, .lb-column-5, .lb-column-4, .lb-column-2 {
+.lb-row > .lb-column-3, .lb-column-5, .lb-column-4, .lb-column-2 {
   padding: 0 8px;
 }
 
@@ -255,25 +255,15 @@ figure:hover > .menu-img {
   clear: both;
 }
 
-.lb-column {
-  float: left;
-  width: 33%;
+.lb-row {
+  display: flex;
+  flex-wrap: wrap;
 }
 
-.lb-column-2 {
-    float: left;
-    width: 50%;
-  }
-
-.lb-column-5 {
-  float: left;
-  width: 20%;
-}
-
-.lb-column-4 {
-  float: left;
-  width: 25%;
-}
+.lb-column-2 { flex: 50%; }
+.lb-column-3 { flex: 33.33%; }
+.lb-column-4 { flex: 25%; }
+.lb-column-5 { flex: 20%; }
 
 img.lb-hover-shadow {
   transition: 0.3s;
