@@ -224,6 +224,7 @@ extra:
       name: Автор на Стихи.ру
 markdown_extensions:
   - def_list
+  - sane_lists
   - pymdownx.magiclink # auto-link HTML, FTP, and email links https://facelessuser.github.io/pymdown-extensions/extensions/magiclink/
   - pymdownx.keys # add keys like ++ctrl+alt+delete++ # https://facelessuser.github.io/pymdown-extensions/extensions/keys/
   - pymdownx.tabbed # add tabs https://facelessuser.github.io/pymdown-extensions/extensions/tabbed/
