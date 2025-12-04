@@ -31,6 +31,7 @@
     * [Осенний парад](autumn-parade.md)
     * [Дыхание ноября](autumn.md)
     * [На закате](sunset.md)
+    * [Предновогоднее](before-new-year.md)
     * [Шаги зимы](winter.md)
     * [На коньках](skating.md)
 
