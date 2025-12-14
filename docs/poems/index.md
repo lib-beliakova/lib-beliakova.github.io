@@ -40,6 +40,7 @@
     ---
 
     * [Ослик](donkey.md)
+    * [Неправильная дверь](wrong-door.md)
     * [Помнишь?](remember.md)
     * [Грибочек](tiny-mushroom.md)
     * [Пример для всех!](example.md)
