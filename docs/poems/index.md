@@ -33,6 +33,7 @@
     * [На закате](sunset.md)
     * [Предновогоднее](before-new-year.md)
     * [Шаги зимы](winter.md)
+    * [Снежный лес](winter-forest.md)
     * [На коньках](skating.md)
 
 -   ## :material-teddy-bear: Для детей
