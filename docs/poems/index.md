@@ -85,6 +85,7 @@
 
     ---
 
+    * [С.П.](S-P.md)
     * [Другие пути](other-ways.md)
     * [Один такой](the-one.md)
     * [Сон учителя](teacher-dream.md)
