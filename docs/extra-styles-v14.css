@@ -47,7 +47,7 @@ article > p {
 article > p.center {
     text-align: center;
 }
-article > p:has(br) {
+article p:has(br) {
   text-align: left;
   text-indent: 1em hanging each-line;
   line-height: 1.3;

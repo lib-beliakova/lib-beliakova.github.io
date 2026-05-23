@@ -8,4 +8,4 @@ RUN apk add --update --no-cache --virtual .build-deps gcc musl-dev &&\
     rm ./requirements.txt
 WORKDIR /d
 ENTRYPOINT ["mkdocs"]
-CMD ["serve", "-a", "0.0.0.0:8000"]
+CMD ["serve", "--livereload", "-a", "0.0.0.0:8000"]
