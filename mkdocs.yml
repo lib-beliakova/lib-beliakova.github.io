@@ -11,6 +11,8 @@ nav:
     - blog/index.md
   - Рассказы:
      - stories/index.md
+     - stories/colour-of-the-sun.md
+     - stories/recent-story.md
      - stories/eye-of-stars.md
      - stories/nothern-summer.md
      - stories/stars.md
@@ -114,6 +116,7 @@ nav:
       - poems/the-crow.md
       - poems/help.md
     - Моменты жизни:
+      - poems/Crimean.md
       - poems/portret.md
       - poems/S-P.md
       - poems/other-ways.md
@@ -132,6 +135,7 @@ nav:
       - poems/old-palace.md
       - poems/green-stick-legend.md
     - О вдохновении:
+      - poems/this-summer.md
       - poems/self-portrait.md
       - poems/desk-drawer.md
       - poems/ink-lines.md
@@ -140,6 +144,7 @@ nav:
       - poems/before-sunrise.md
   - Переводы:
      - translations/index.md
+     - translations/golden.md
      - translations/swim.md
      - translations/who.md
      - translations/dynamite.md

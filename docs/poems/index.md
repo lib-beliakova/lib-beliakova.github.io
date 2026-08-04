@@ -86,6 +86,7 @@
 
     ---
 
+    * [Крымское](Crimean.md)
     * [Портрет](portret.md)
     * [С.П.](S-P.md)
     * [Другие пути](other-ways.md)
@@ -108,6 +109,7 @@
 
     ---
 
+    * [Это лето](this-summer.md)
     * [Автопортрет](self-portrait.md)
     * [Ящики стола](desk-drawer.md)
     * [Линии чернил](ink-lines.md)
