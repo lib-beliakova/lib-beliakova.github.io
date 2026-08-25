@@ -86,6 +86,8 @@
 
     ---
 
+    * [Зайке](lop-eared.md)
+    * [Он](he.md)
     * [Крымское](Crimean.md)
     * [Портрет](portret.md)
     * [С.П.](S-P.md)
