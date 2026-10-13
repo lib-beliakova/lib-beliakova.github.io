@@ -1,5 +1,5 @@
 [
-  ["diplom-apple.jpg", "diplom-Class.jpg"],
+  ["diplom-apple.jpg", "diplom-Class.jpg", "diplom-yaroslavl-poetry.jpg"],
   ["diplom-al-parusa-stories-2026.jpg", "diplom-al-parusa-poetry-2026.jpg", "diplom-spring.jpg"],
   ["diplom-Cher-text-2026.jpg", "diplom-Cher-paint-2026.jpg", "diplom-zhukovsky.jpg"],
   ["diplom-sverchok.jpg", "diplom-grey-neck2.jpg", "diplom-tavda-poetry2.jpg"],
@@ -17,11 +17,13 @@
   ["diplom.jpg", "birds-stories.jpg", "diplom-vsm.jpg"],
   ["diplom-list.jpg", "diplom-Once-again-about-love.jpg", "diplom-perlinki.jpg"],
   ["gramota.jpg", "gramota-Good-for-good.jpg", "gramota-secret-life-of-our-pets.jpg"],
-  ["diplom-Zahoder.jpg", "diplom-boulsport.jpg", "pasternak-summer.jpg", "letter-chorus.jpg"],
-  ["gratitude.jpg", "gramota-detlit-poetry.jpg", "gramota-detlit-prose.jpg", "sertificate.jpg"],
+  ["diplom-Zahoder.jpg", "diplom-boulsport.jpg", "pasternak-summer.jpg"],
+  ["gratitude-yugosha.jpg", "artek-cert.jpg"],
+  ["letter-chorus.jpg", "gratitude.jpg", "diplom-yaroslavl-prose.jpg"],
+  ["gramota-detlit-poetry.jpg", "gramota-detlit-prose.jpg", "sertificate.jpg"],
   ["letter-bibliogid.jpg", "diplom-strana.jpg", "vsm-magistr.jpg", "gramota-detlit-spring.jpg"],
   ["diplom-delalandia.jpg", "vsm-diplom.jpg", "diplom-sestra-talanta.jpg", "diplom-cherdobryak2.jpg"],
   ["gramota-pushkin.jpg", "diplom-stikhi-2024.jpg", "sertificate-needle.jpg", "cert-lipetsk.jpg", "cert-igolka-3.jpg"],
   ["second-sertificate.jpg", "third-sertificate.jpg", "sertificate-Literary-course-for-bloggers.jpg", "sertificate-Skazkotvorenie.jpg", "sertificate-We-are-beginners-poets.jpg"],
-  ["cert-space-tales.jpg", "cert-space-writer.jpg", "cert-space-poet.jpg", "artek-cert.jpg"]
+  ["cert-space-tales.jpg", "cert-space-writer.jpg", "cert-space-poet.jpg"]
 ]
