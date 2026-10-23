@@ -29,6 +29,7 @@
     * [Лето](summer.md)
     * [Следы лета](summer-traces.md)
     * [Вернулась осень...](autumn-is-back.md)
+    * [Прохожий](passerby.md)
     * [Скверик осени](garden-of-autumn.md)
     * [Осенний парад](autumn-parade.md)
     * [Дыхание ноября](autumn.md)
@@ -86,6 +87,8 @@
 
     ---
 
+    * [Ожидание](waiting.md)
+    * [Татьяна](Tatyana.md)
     * [Зайке](lop-eared.md)
     * [Он](he.md)
     * [Крымское](Crimean.md)
@@ -111,6 +114,7 @@
 
     ---
 
+    * [А.С.](A-S.md)
     * [Это лето](this-summer.md)
     * [Автопортрет](self-portrait.md)
     * [Ящики стола](desk-drawer.md)
