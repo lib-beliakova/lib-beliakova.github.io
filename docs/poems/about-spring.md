@@ -26,4 +26,6 @@
 
 *Стихотворение напечатано в журнале "Костёр" № 1, 2025 (Санкт-Петербург).*
 
+*Стихотворение напечатано в литературном альманахе "Аристарх и Мардарий", выпуск №6, 2026 (Тула).*
+
 <iframe src="https://vk.com/video_ext.php?oid=-219368889&id=456239019&hd=2&autoplay=0" width="800" height="450" allow="encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>
