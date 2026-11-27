@@ -114,6 +114,7 @@
 
     ---
 
+    * [Песня "Творить"](create.md)
     * [А.С.](A-S.md)
     * [Это лето](this-summer.md)
     * [Автопортрет](self-portrait.md)
